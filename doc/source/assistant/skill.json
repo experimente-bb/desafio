@@ -1,0 +1,1485 @@
+{
+  "name": "Experimente BB - Desafio IBM",
+  "intents": [
+    {
+      "intent": "Submeter",
+      "examples": [
+        {
+          "text": "Pode submeter meu trabalho"
+        },
+        {
+          "text": "Meu modelo já está maduro o suficiente, pode submeter"
+        },
+        {
+          "text": "Já pode submeter"
+        },
+        {
+          "text": "Submeta meu projeto"
+        },
+        {
+          "text": "finalizar desafio"
+        },
+        {
+          "text": "submeter"
+        },
+        {
+          "text": "estou pronto para submeter"
+        },
+        {
+          "text": "quero enviar o desafio para analise"
+        },
+        {
+          "text": "Quero validar meu projeto"
+        },
+        {
+          "text": "Pode validar meu trabalho"
+        },
+        {
+          "text": "Quero submeter meu desafio"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Afirmativa",
+      "examples": [
+        {
+          "text": "Podemos"
+        },
+        {
+          "text": "Claro"
+        },
+        {
+          "text": "Sim"
+        },
+        {
+          "text": "Vamos"
+        },
+        {
+          "text": "vamo"
+        },
+        {
+          "text": "Quando quiser"
+        },
+        {
+          "text": "Assim que estiver pronto"
+        },
+        {
+          "text": "bora"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Negativa",
+      "examples": [
+        {
+          "text": "Negativo"
+        },
+        {
+          "text": "Sem interesse"
+        },
+        {
+          "text": "Não"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Perfil",
+      "examples": [
+        {
+          "text": "Preciso que traçe meu perfil de investidor"
+        },
+        {
+          "text": "Quero descobrir meu perfil de investidor"
+        },
+        {
+          "text": "Gostaria de saber em qual perfil de investidor eu me adequo"
+        },
+        {
+          "text": "Qual meu perfil de investidor"
+        },
+        {
+          "text": "Consegue obter meu perfil de investimento"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Sair",
+      "examples": [
+        {
+          "text": "Tchau"
+        },
+        {
+          "text": "Perdi o interesse em falar com você"
+        },
+        {
+          "text": "Preciso sair"
+        },
+        {
+          "text": "Não quero mais repassar minas informações"
+        },
+        {
+          "text": "Quero ir embora"
+        },
+        {
+          "text": "Desejo sair desse chat"
+        },
+        {
+          "text": "Sair"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Saudacao",
+      "examples": [
+        {
+          "text": "Oi"
+        },
+        {
+          "text": "Ola"
+        },
+        {
+          "text": "o q vc faz?"
+        },
+        {
+          "text": "Boa noite"
+        },
+        {
+          "text": "Boa tarde"
+        },
+        {
+          "text": "Bom dia"
+        },
+        {
+          "text": "Iae Consagrado"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Agradecimento",
+      "examples": [
+        {
+          "text": "Agradecido"
+        },
+        {
+          "text": "Obrigado"
+        },
+        {
+          "text": "Valeu"
+        },
+        {
+          "text": "Muito obrigado"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sys-currency",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Escolaridade",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Médio Completo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Fundamental Incompleto",
+          "synonyms": [
+            "cursando fundamental"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Superior Completo",
+          "synonyms": [
+            "completei faculdade"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Superior Incompleto",
+          "synonyms": [
+            "superior cursando",
+            "cursando superior",
+            "fazendo faculdade"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fundamental Completo",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pós graduado",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Médio Incompleto",
+          "synonyms": [
+            "cursando médio",
+            "médio cursando"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "valor",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "nenhum",
+          "synonyms": [
+            "nenhuma"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "language": "pt-br",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "skill_id": "fadc1e79-8d21-4ac2-83a9-aa22a5897613",
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "getFilhos",
+      "parent": "node_6_1568643438770",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "text": "<? input.text ?>",
+            "type": "Emotions"
+          },
+          "result_variable": "emotion"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_5_1568643664913"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_1_1568644156352",
+      "output": {
+        "text": {
+          "values": [
+            "Apenas um, deve ser o anjinho da família! Me conte um pouco sobre sua rotina, por favor."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1568643834062",
+      "context": {
+        "filhos": 1
+      },
+      "conditions": "@sys-number==1",
+      "dialog_node": "response_1_1568644156352",
+      "previous_sibling": "response_4_1568643917834"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_4_1568643917834",
+      "output": {
+        "text": {
+          "values": [
+            "Nenhuma criança em casa! Me conte como é a sua rotina, por favor."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1568643834062",
+      "context": {
+        "filhos": 0
+      },
+      "conditions": "@sys-number==0 or #Negativa or @valor",
+      "dialog_node": "response_4_1568643917834",
+      "previous_sibling": "node_8_1568646450397"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1568644280698",
+      "output": {
+        "text": {
+          "values": [
+            "Dois já deve ser bem gostoso, sua casa deve ser bastante animada! Me conte mais sobre sua rotina, por favor."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1568643834062",
+      "context": {
+        "filhos": 2
+      },
+      "conditions": "@sys-number==2",
+      "dialog_node": "response_6_1568644280698",
+      "previous_sibling": "response_1_1568644156352"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1568645670934",
+      "output": {
+        "text": {
+          "values": [
+            "Nossa, quantos! Já deve ser uma bagunça boa na sua casa, me conta um pouco mais da sua rotina, por favor."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1568643834062",
+      "context": {
+        "filhos": "@sys-number"
+      },
+      "conditions": "@sys-number>2",
+      "dialog_node": "response_7_1568645670934",
+      "previous_sibling": "response_6_1568644280698"
+    },
+    {
+      "type": "standard",
+      "title": "getEscolaridade",
+      "parent": "node_6_1568643834062",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "text": "<? input.text ?>",
+            "type": "Emotions"
+          },
+          "result_variable": "emotion"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_8_1568646450397"
+    },
+    {
+      "type": "standard",
+      "title": "getGastos",
+      "parent": "node_10_1568668213236",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "text": "<? input.text ?>",
+            "type": "Emotions"
+          },
+          "result_variable": "emotion"
+        }
+      ],
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_2_1568668455752"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Desculpa, não entendi. Por favor entre com o seu gasto mensal no seguinte formato: R\\$10,00"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1568668455752",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1568668655502"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_4_1568669631546",
+      "previous_sibling": "node_2_1568669672424"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_2_1568820004764",
+      "output": {
+        "text": {
+          "values": [
+            "Calma, só perguntei para ter uma ideia de como você aproveita seus rendimentos, aliás, quanto você estima que seja seu gasto mensal em reais?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1568668455752",
+      "conditions": "$emotion.top_emotion == 'anger'",
+      "dialog_node": "response_2_1568820004764",
+      "previous_sibling": "response_1_1568750043633"
+    },
+    {
+      "type": "standard",
+      "parent": "node_2_1568668455752",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1560348729849"
+      },
+      "conditions": "#Sair",
+      "dialog_node": "node_2_1568669672424",
+      "previous_sibling": "node_1_1568668655502"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_9_1568820567786",
+      "output": {
+        "text": {
+          "values": [
+            "Não tenha medo de ser feliz, entretenimento limpa nossos pensamentos. Com base na sua resposta anterior, quanto você estima que seja seu gasto mensal?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1568668455752",
+      "conditions": "$emotion.top_emotion == 'fear'",
+      "dialog_node": "response_9_1568820567786",
+      "previous_sibling": "response_8_1568820317653"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_8_1568820317653",
+      "output": {
+        "text": {
+          "values": [
+            "Interessante, você parece ter um gosto mais refinado, mas tudo possui um lado bom. Com base na sua resposta anterior, quanto você estima que seja seu gasto mensal?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1568668455752",
+      "conditions": "$emotion.top_emotion == 'disgust'",
+      "dialog_node": "response_8_1568820317653",
+      "previous_sibling": "response_2_1568820004764"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1568750087840",
+      "output": {
+        "text": {
+          "values": [
+            "Caramba, você é uma pessoa difícil de se obter um perfil. Com base na sua resposta anterior, quanto você estima que seja seu gasto mensal?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1568668455752",
+      "conditions": "anything_else",
+      "dialog_node": "response_5_1568750087840",
+      "previous_sibling": "response_2_1568820660552"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_2_1568820660552",
+      "output": {
+        "text": {
+          "values": [
+            "Não fique triste com isso, as coisas vão melhorar a partir de agora. Com base na sua resposta anterior, quanto você estima que seja seu gasto mensal?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1568668455752",
+      "conditions": "$emotion.top_emotion == 'sadness'",
+      "dialog_node": "response_2_1568820660552",
+      "previous_sibling": "response_9_1568820567786"
+    },
+    {
+      "type": "standard",
+      "parent": "node_2_1568668455752",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "type": "ML",
+            "filhos": "$filhos",
+            "salario": "$salario",
+            "gastoMensal": "<? input.text.getMatch('([0-9]+)',0) ?>",
+            "escolaridade": "$escolaridade"
+          },
+          "result_variable": "result"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_5_1568820770694"
+      },
+      "conditions": "@sys-currency",
+      "dialog_node": "node_1_1568668655502",
+      "previous_sibling": "response_5_1568750087840"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_1_1568750043633",
+      "output": {
+        "text": {
+          "values": [
+            "Muito bacana!! Com base na sua resposta anterior, quanto você estima que seja seu gasto mensal?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1568668455752",
+      "conditions": "$emotion.top_emotion == 'joy'",
+      "dialog_node": "response_1_1568750043633"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_1_1568750611981",
+      "output": {
+        "text": {
+          "values": [
+            "Bom, com base nas suas respostas posso te dizer que o seu perfil é o"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568668655502",
+      "conditions": "$result",
+      "dialog_node": "response_1_1568750611981",
+      "previous_sibling": "node_5_1568820770694"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1568751059908",
+      "output": {
+        "text": {
+          "values": [
+            "Houve um problema interno. Tente novamente em instantes."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568668655502",
+      "conditions": "anything_else",
+      "dialog_node": "response_5_1568751059908",
+      "previous_sibling": "response_1_1568750611981"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "<?$result.produto?>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568668655502",
+      "conditions": "$result != null",
+      "dialog_node": "node_5_1568820770694"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "Em outros casos",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1569258180625"
+      },
+      "conditions": "#Submeter",
+      "dialog_node": "node_3_1569265677931",
+      "previous_sibling": "node_8_1569005544263"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "Em outros casos",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1560353565239"
+      },
+      "conditions": "#Agradecimento",
+      "dialog_node": "node_8_1569005544263",
+      "previous_sibling": "node_6_1569005322265"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "Em outros casos",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1560348729849"
+      },
+      "conditions": "#Negativa",
+      "dialog_node": "node_6_1569005322265",
+      "previous_sibling": "node_3_1569003190710"
+    },
+    {
+      "type": "standard",
+      "parent": "Em outros casos",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Em outros casos"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1569003344765",
+      "previous_sibling": "node_3_1569265677931"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "Em outros casos",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_6_1568643438770"
+      },
+      "conditions": "#Afirmativa || #Perfil",
+      "dialog_node": "node_3_1569003190710"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_8_1568819496607",
+      "output": {
+        "text": {
+          "values": [
+            "Calma, não desvalorize essa época da sua vida dessa forma, você deve ter aprendido bastante mesmo que inconsientemente. Agora preciso saber sua renda mensal para inferir seu perfil de investidor. Quanto você ganha por mês?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568667971417",
+      "conditions": "$emotion.top_emotion == 'disgust'",
+      "dialog_node": "response_8_1568819496607",
+      "previous_sibling": "response_10_1568819391895"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Desculpe, não entendi. Por favor entre com o seu gasto mensal no seguinte formato: R\\$10000,00"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568667971417",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_10_1568668213236"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_2_1568669537871",
+      "previous_sibling": "node_3_1568669573900"
+    },
+    {
+      "type": "standard",
+      "parent": "node_1_1568667971417",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1560348729849"
+      },
+      "conditions": "#Sair",
+      "dialog_node": "node_3_1568669573900",
+      "previous_sibling": "node_10_1568668213236"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Certo. E o que você faz para se divertir, costuma ir à praia, parque, cinema? Me dê informações detalhadas, essa informação é muito importante para obter seu perfil."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568667971417",
+      "context": {
+        "salario": "@sys-currency"
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1568668455752"
+      },
+      "conditions": "@sys-currency",
+      "dialog_node": "node_10_1568668213236",
+      "previous_sibling": "response_3_1568749681898"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_10_1568819391895",
+      "output": {
+        "text": {
+          "values": [
+            "Você parece não ter gostado muito desse período da sua vida. Agora preciso saber sua renda mensal para inferir seu perfil de investidor. Quanto você ganha por mês?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568667971417",
+      "conditions": "$emotion.top_emotion =='angry'",
+      "dialog_node": "response_10_1568819391895",
+      "previous_sibling": "response_4_1568749680151"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_3_1568749681898",
+      "output": {
+        "text": {
+          "values": [
+            "Agora preciso saber sua renda mensal para inferir seu perfil de investidor. Quanto você ganha por mês?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568667971417",
+      "conditions": "anything_else",
+      "dialog_node": "response_3_1568749681898",
+      "previous_sibling": "response_6_1568819839318"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1568819786317",
+      "output": {
+        "text": {
+          "values": [
+            "Parece que foi uma época difícil para você, mas estes tempos já passaram. Agora preciso saber sua renda mensal para inferir seu perfil de investidor. Quanto você ganha por mês?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568667971417",
+      "conditions": "$emotion.top_emotion == 'fear'",
+      "dialog_node": "response_7_1568819786317",
+      "previous_sibling": "response_8_1568819496607"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1568819839318",
+      "output": {
+        "text": {
+          "values": [
+            "Pelo seu relato não foi um período que você gosta de lembrar, mas fique tranquilo pois esse tempo já passou. Agora preciso saber sua renda mensal para inferir seu perfil de investidor. Quanto você ganha por mês?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568667971417",
+      "conditions": "$emotion.top_emotion == 'sadness'",
+      "dialog_node": "response_6_1568819839318",
+      "previous_sibling": "response_7_1568819786317"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_4_1568749680151",
+      "output": {
+        "text": {
+          "values": [
+            "Entendo, considero a experiência do aprendizado enriquecedora para a mente humana. Continuando nossas perguntas, agora preciso saber sua renda mensal para inferir seu perfil de investidor. Quanto você ganha por mês?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1568667971417",
+      "conditions": "$emotion_emotion == 'joy'",
+      "dialog_node": "response_4_1568749680151"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1560348729849"
+      },
+      "conditions": "#Sair",
+      "dialog_node": "node_4_1560348881101",
+      "previous_sibling": "node_6_1568643438770"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Primeiramente, eu gostaria de saber: o que te levou a buscar por novos investimentos? Me conte detalhes para que eu possa te conhecer melhor :)"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "Bem-vindo",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_5_1568643664913"
+      },
+      "conditions": "#Afirmativa",
+      "dialog_node": "node_6_1568643438770"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_2_1568664270178",
+      "output": {
+        "text": {
+          "values": [
+            "Entendo, faculdade às vezes é complicado. Conte me um pouco sua experiência no ensino superior, isso pode fazer a diferença."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568657521524",
+      "context": {
+        "escolaridade": "@Escolaridade"
+      },
+      "conditions": "@Escolaridade:(Superior Incompleto)",
+      "dialog_node": "response_2_1568664270178",
+      "previous_sibling": "response_5_1568661900501"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1568661900501",
+      "output": {
+        "text": {
+          "values": [
+            "Que legal! Qual faculdade você fez e qual foi seu TCC?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568657521524",
+      "context": {
+        "escolaridade": "@Escolaridade"
+      },
+      "conditions": "@Escolaridade:(Superior Completo)",
+      "dialog_node": "response_5_1568661900501",
+      "previous_sibling": "response_5_1568657555976"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1568657555976",
+      "output": {
+        "text": {
+          "values": [
+            "Nossa que incrível, admiro muito o avanço acadêmico. Sobre o que é sua pós?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568657521524",
+      "context": {
+        "escolaridade": "@Escolaridade"
+      },
+      "conditions": "@Escolaridade:(Pós graduado)",
+      "dialog_node": "response_5_1568657555976",
+      "previous_sibling": "node_1_1568667971417"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_1_1568667276863",
+      "output": {
+        "text": {
+          "values": [
+            "O ensino médio pode ser difícil às vezes mas ele é necessário, conte mais da sua experiência no ensino médio."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568657521524",
+      "context": {
+        "escolaridade": "@Escolaridade"
+      },
+      "conditions": "@Escolaridade:(Médio Incompleto)",
+      "dialog_node": "response_1_1568667276863",
+      "previous_sibling": "response_6_1568666828349"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1568666828349",
+      "output": {
+        "text": {
+          "values": [
+            "Ter o ensino médio completo é muito importante, conte mais da sua experiência no ensino médio."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568657521524",
+      "context": {
+        "escolaridade": "@Escolaridade"
+      },
+      "conditions": "@Escolaridade:(Médio Completo)",
+      "dialog_node": "response_6_1568666828349",
+      "previous_sibling": "response_2_1568664270178"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_4_1568667336652",
+      "output": {
+        "text": {
+          "values": [
+            "É importante ter o ensino fundamental, conte mais da sua experiência na escola."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568657521524",
+      "context": {
+        "escolaridade": "@Escolaridade"
+      },
+      "conditions": "@Escolaridade:(Fundamental Completo) || @Escolaridade:(Fundamental Incompleto)",
+      "dialog_node": "response_4_1568667336652",
+      "previous_sibling": "response_1_1568667276863"
+    },
+    {
+      "type": "standard",
+      "title": "getSalario",
+      "parent": "node_5_1568657521524",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "text": "<? input.text ?>",
+            "type": "Emotions"
+          },
+          "result_variable": "emotion"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "true",
+      "dialog_node": "node_1_1568667971417"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1568818849650",
+      "output": {
+        "text": {
+          "values": [
+            "Me pareceu puxado, mas se você se permitir pode ser uma grande oportunidade de aprendizado. Para deixar anotado aqui, qual a sua escolaridade mesmo?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1568646450397",
+      "conditions": "$emotion.top_emotion == 'disgust'",
+      "dialog_node": "response_7_1568818849650",
+      "previous_sibling": "response_6_1568818607295"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1568818607295",
+      "output": {
+        "text": {
+          "values": [
+            "Sua rotina parece muito pesada, mas não se irrite por tão pouco, podemos crescer com isso. Para deixar anotado aqui, qual a sua escolaridade mesmo?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1568646450397",
+      "conditions": "$emotion.top_emotion == 'angry'",
+      "dialog_node": "response_6_1568818607295",
+      "previous_sibling": "response_1_1568749579361"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1568819223196",
+      "output": {
+        "text": {
+          "values": [
+            "Rotina pode ser um pouco entediante às vezes, por isso devemos olhar sempre para o lado bom dela. Para deixar anotado aqui, qual a sua escolaridade mesmo?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1568646450397",
+      "conditions": "$emotion.top_emotion == 'sadness'",
+      "dialog_node": "response_6_1568819223196",
+      "previous_sibling": "response_5_1568819051656"
+    },
+    {
+      "type": "standard",
+      "parent": "node_8_1568646450397",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1568667971417"
+      },
+      "conditions": "@Escolaridade",
+      "dialog_node": "node_5_1568657521524",
+      "previous_sibling": "response_6_1568749581530"
+    },
+    {
+      "type": "standard",
+      "parent": "node_8_1568646450397",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1560348729849"
+      },
+      "conditions": "#Sair",
+      "dialog_node": "node_4_1568669491182",
+      "previous_sibling": "node_5_1568657521524"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1568819051656",
+      "output": {
+        "text": {
+          "values": [
+            "Nossa rotina pode ser assustadora às vezes, por isso sempre precisamos enfrentar o que está errado para que possamos melhorá-la. Para deixar anotado aqui, qual a sua escolaridade mesmo?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1568646450397",
+      "conditions": "$emotion.top_emotion == 'fear'",
+      "dialog_node": "response_5_1568819051656",
+      "previous_sibling": "response_7_1568818849650"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1568749581530",
+      "output": {
+        "text": {
+          "values": [
+            "Qual a sua escolaridade mesmo?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1568646450397",
+      "conditions": "anything_else",
+      "dialog_node": "response_6_1568749581530",
+      "previous_sibling": "response_6_1568819223196"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Desculpa, não entendi. Só entendo as seguintes respostas: \"Fundamental incompleto\", \"Fundamental completo\", \"Médio incompleto\" , \"Médio completo\", \"Superior incompleto\", \"Superior completo\" ou \"Pós-graduado. Caso queira terminar o chat digite \"Tchau\"."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1568646450397",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_5_1568657521524"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_6_1568669429933",
+      "previous_sibling": "node_4_1568669491182"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_1_1568749579361",
+      "output": {
+        "text": {
+          "values": [
+            "Interessante, muitas vezes a rotina que levamos está associada a nossa escolaridade. Para deixar anotado aqui, qual a sua escolaridade mesmo?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_8_1568646450397",
+      "conditions": "$emotion.top_emotion == 'joy'",
+      "dialog_node": "response_1_1568749579361"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1569262962743",
+      "context": {
+        "submit": null
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "Bem-vindo"
+      },
+      "conditions": "true",
+      "dialog_node": "node_10_1569271198617"
+    },
+    {
+      "type": "standard",
+      "parent": "node_5_1568643664913",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1568646450397"
+      },
+      "conditions": "@sys-number>= 0 ||   #Negativa || @valor",
+      "dialog_node": "node_6_1568643834062",
+      "previous_sibling": "response_1_1568731989857"
+    },
+    {
+      "type": "standard",
+      "parent": "node_5_1568643664913",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1560348729849"
+      },
+      "conditions": "#Sair",
+      "dialog_node": "node_4_1568669391081",
+      "previous_sibling": "node_6_1568643834062"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_2_1568818508576",
+      "output": {
+        "text": {
+          "values": [
+            "Fique tranquilo, a situação vai melhorar, você veio ao lugar certo. Para deixar anotado aqui, quantos filhos você possui?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568643664913",
+      "conditions": "$emotion.top_emotion == 'sadness'",
+      "dialog_node": "response_2_1568818508576",
+      "previous_sibling": "response_1_1568818408988"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_1_1568731989857",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi muito bem, mas tudo bem. Quantos filhos você possui?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568643664913",
+      "conditions": "anything_else",
+      "dialog_node": "response_1_1568731989857",
+      "previous_sibling": "response_2_1568818508576"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_1_1568818408988",
+      "output": {
+        "text": {
+          "values": [
+            "Alguns investimentos podem ser mais arriscados que outros, contudo existem opções mais seguras, quanto a isso fique tranquilo. Para deixar anotado aqui, quantos filhos você possui?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568643664913",
+      "conditions": "$emotion.top_emotion == 'fear'",
+      "dialog_node": "response_1_1568818408988",
+      "previous_sibling": "response_4_1568816619108"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_4_1568816619108",
+      "output": {
+        "text": {
+          "values": [
+            "Não há nada de errado em buscar um investimento e você pode se surpreender com ganhos. Para deixar anotado aqui, quantos filhos você possui?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568643664913",
+      "conditions": "$emotion.top_emotion == 'disgust'",
+      "dialog_node": "response_4_1568816619108",
+      "previous_sibling": "response_7_1568816377748"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1568816377748",
+      "output": {
+        "text": {
+          "values": [
+            "Calma não precisa se exaltar, você pode parar o chat a qualquer momento e retornar quando quiser. Para deixar anotado aqui, quantos filhos você possui?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568643664913",
+      "conditions": "$emotion.top_emotion == 'anger'",
+      "dialog_node": "response_7_1568816377748",
+      "previous_sibling": "response_6_1568731986355"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Desculpe não entendi, quantos filhos você possui?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568643664913",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_6_1568643834062"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_1_1568669335506",
+      "previous_sibling": "node_4_1568669391081"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1568731986355",
+      "output": {
+        "text": {
+          "values": [
+            "Interessante, sempre bom buscar por novas formas de rendimentos, sempre ganhamos quando buscamos diversificar. Para deixar anotado aqui, quantos filhos você possui?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_5_1568643664913",
+      "conditions": "$emotion.top_emotion == 'joy'",
+      "dialog_node": "response_6_1568731986355"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_10_1569258180625",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Bem-vindo"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_9_1569265128934",
+      "previous_sibling": "node_7_1569262962743"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_10_1569258180625",
+      "context": {
+        "submit": true
+      },
+      "conditions": "#Afirmativa",
+      "dialog_node": "node_7_1569262962743"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Me desculpe, eu não entendi. Eu sou a Kátia e posso te ajudar traçando seu perfil de investimento! Deseja começar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_10_1560353565239"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Você quer mesmo submeter o desafio?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#Submeter",
+      "dialog_node": "node_10_1569258180625",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok. Sem problemas sou apenas uma inteligência artificial e não guardo ressentimento, volte quando quiser que traçarei seu perfil de investidor :)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "filhos": null,
+        "salario": null,
+        "gastoMensal": null,
+        "escolaridade": null
+      },
+      "metadata": {},
+      "conditions": "#Sair",
+      "dialog_node": "node_3_1560348729849",
+      "previous_sibling": "node_10_1569258180625"
+    },
+    {
+      "type": "standard",
+      "title": "Sair com Agradecimento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Foi um prazer te atender! Até a próxima :)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "filhos": null,
+        "salario": null,
+        "gastoMensal": null,
+        "escolaridade": null
+      },
+      "metadata": {},
+      "conditions": "#Agradecimento",
+      "dialog_node": "node_10_1560353565239",
+      "previous_sibling": "node_3_1560348729849"
+    },
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, sou a Kátia, traçarei seu perfil de investimento e com isso você poderá realizar investimentos em produtos mais adequados. Para isso preciso que me fale um pouco mais de você, tenho aqui algumas perguntas básicas. Podemos começar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "filhos": null,
+        "result": null,
+        "salario": null,
+        "gastoMensal": null,
+        "escolaridade": null
+      },
+      "metadata": {},
+      "conditions": "welcome ||  #Saudacao || #Perfil",
+      "dialog_node": "Bem-vindo"
+    }
+  ],
+  "workspace_id": "fadc1e79-8d21-4ac2-83a9-aa22a5897613",
+  "counterexamples": [
+    {
+      "text": "busco diversificar meu portifolio"
+    },
+    {
+      "text": "Superior completo R$1000 R$100 2"
+    }
+  ],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}

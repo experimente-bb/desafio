@@ -1,0 +1,30 @@
+/* main imports */
+@import 'variables';
+@import 'mixins';
+@import 'animations';
+@import 'base';
+@import 'colors';
+
+/* vendor imports */
+@import '~\@ibm/grid/dist/ibm-grid.min.css';
+@import '~\@ibm/type/css/ibm-type.min.css';
+
+/* component specific imports */
+@import '../components/App';
+@import '../components/ChatContainer/ChatContainer';
+@import '../components/ChatList/ChatList';
+@import '../components/ChatOption/ChatOption';
+@import '../components/ChatOptionList/ChatOptionList';
+@import '../components/ChatMessage/ChatMessage';
+@import '../components/JsonPane/JsonPane';
+@import '../components/DemoButton/DemoButton';
+@import '../components/DemoToggleButton/DemoToggleButton';
+@import '../components/OptionsSidebar/OptionsSidebar';
+@import '../components/DemoNotification/DemoNotification';
+@import '../components/BalanceCard/BalanceCard';
+@import '../components/ApptCard/ApptCard';
+@import '../components/AgentCard/AgentCard';
+@import '../components/CreditCardOption/CreditCardOption';
+@import '../components/ChatUnorderedList/ChatUnorderedList';
+@import '../components/SearchResults/SearchResultsList';
+@import '../components//LogoImages//LogoImages'

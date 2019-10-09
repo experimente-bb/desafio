@@ -1,0 +1,27 @@
+.appt-card {
+  @extend %card-length;
+  background: $duo-gray-10;
+  color: black;
+  margin-bottom: 1em;
+}
+
+.appt-card__header {
+  padding: 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  p {
+    margin: 0;
+    font-weight: 600;
+  }
+}
+
+.appt-card__content {
+  background: $duo-gray-20;
+  color: $duo-gray-70;
+  padding: 5%;
+  p {
+    margin: 0;
+  }
+}

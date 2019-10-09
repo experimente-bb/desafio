@@ -1,0 +1,7 @@
+---
+applications:
+- name: experimente-bb
+  buildpack: sdk-for-nodejs
+  memory: 128M
+  env:
+    NODE_ENV: production

@@ -1,0 +1,74 @@
+.options-sidebar {
+  position: relative;
+
+  .options-sidebar-container {
+    position: relative;
+    height  : 100%;
+  }
+
+  margin  : 3.125vw;
+  padding : 0;
+  position: absolute;
+  top     : 0;
+  right   : 0;
+  width   : 75vw;
+
+  @include respond-to-max($breakpoint--md) {
+    width : calc(100% - 12.5vw);
+    top: 12px;
+    margin: 6.25vw;
+    height: 55px;
+  }
+
+  @include respond-to-max($breakpoint--sm) {
+    width : 100%;
+    top: 6px;
+    margin: 0;
+  }
+}
+
+.options-panel {
+  display       : flex;
+  flex-direction: column;
+  flex-wrap     : nowrap;
+  align-items   : flex-end;
+
+  flex-direction: row-reverse;
+  height        : 55px;
+
+  button {
+    padding: 0;
+    width  : 54px;
+    height : 54px;
+    margin : 0;
+
+    &:not(.demo-toggle-button) {
+      z-index: 9997;
+    }
+
+    svg {
+      padding-top: 2px;
+    }
+
+    &:first-of-type {
+      border-radius: 0 7px 0 0;
+
+      &.demo-toggle-button__toggled {
+        border-radius: 0;
+      }
+    }
+  }
+
+  @include respond-to-max($breakpoint--md) {
+    align-items: center;
+
+    button {
+      height: 55px;
+
+      svg {
+        width : 20px;
+        height: 20px;
+      }
+    }
+  }
+}

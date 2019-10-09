@@ -1,0 +1,17 @@
+#root {
+  height: 100vh;
+  width : 100vw;
+
+  .App {
+    min-height: 50vh;
+    height    : 90vh;
+
+    @include respond-to-max($breakpoint--lg) {
+      height: 100vh;
+    }
+
+    @include respond-to-min($breakpoint--lg) {
+      padding-top: 1.51515vw;
+    }
+  }
+}

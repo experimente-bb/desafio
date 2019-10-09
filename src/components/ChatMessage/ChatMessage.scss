@@ -1,0 +1,80 @@
+.chat-message {
+}
+
+.chat-message--anchor-right {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  max-width: 30vw;
+  margin-left: auto;
+}
+
+.chat-message--anchor-left {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  max-width: 30vw;
+  margin-right: auto;
+}
+
+.chat-message--bot {
+  border-radius: 0.5em;
+  padding: 10px 20px;
+  position: relative;
+  &:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0px;
+    right: auto;
+    bottom: -7px;
+    border-top: 20px solid;
+    border-right: 18px solid;
+    border-bottom: 8px solid;
+    border-left: 21px solid;
+    border-color: transparent transparent transparent $duo-white;
+  }
+  color: $duo-black;
+  background-color: $duo-white;
+}
+
+.chat-message--user {
+  border-radius: 0.5em;
+  padding: 10px 20px;
+  color: $duo-white;
+  background: $duo-blue-60;
+  position: relative;
+  &:after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: auto;
+    right: 0px;
+    bottom: -7px;
+    border-top: 20px solid;
+    border-right: 21px solid;
+    border-bottom: 8px solid;
+    border-left: 18px solid;
+    border-color: transparent $duo-blue-60 transparent transparent;
+  }
+}
+
+.chatBar {
+  padding: 0.3rem 0;
+}
+
+@media only screen and (max-width: $breakpoint--md) {
+  .chat-message--anchor-left, .chat-message--anchor-right {
+    max-width: 60%;
+  }
+}
+
+@media only screen and (max-width: $breakpoint--sm) {
+  .chat-message--anchor-left, .chat-message--anchor-right {
+    max-width: 75%;
+  }
+}

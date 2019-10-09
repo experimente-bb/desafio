@@ -1,0 +1,125 @@
+.chat-container {
+  display       : flex;
+  flex-direction: column;
+
+  // get rid of this and do properly later
+  #click-me {
+    // position: absolute;
+    // left    : -99999px;
+    visibility : hidden;
+  }
+
+  .logo-exp {
+    height: 64px;
+    width: auto;
+    @include respond-to-max($breakpoint--lg) {
+      height  : 55px;
+      margin-left: 40px;
+    }
+    @include respond-to-max($breakpoint--md) {
+      height  : 40px;
+      margin-left: 30px;
+    }
+    @include respond-to-max($breakpoint--sm) {
+      height  : 32px;
+      margin-left: 20px;
+    }
+  }
+
+  .chat-container__header {
+    background     : $duo-gray-80;
+    border-radius  : 7px 7px 0 0;
+    display        : flex;
+    justify-content: space-between;
+    align-items    : center;
+    padding        : 1.1em 1.51515vw;
+    position       : relative;
+    z-index        : 4;
+
+    p {
+      position    : relative;
+      padding-left: 20px;
+      margin      : 0;
+
+      &:before {
+        content         : "";
+        position        : absolute;
+        left            : 0;
+        top             : 50%;
+        transform       : translateY(-50%);
+        width           : 12px;
+        height          : 12px;
+        background-color: $duo-blue-60;
+        border-radius   : 50%;
+      }
+    }
+
+    &:after {
+      content   : "";
+      position  : absolute;
+      bottom    : -35px;
+      left      : 0;
+      width     : calc(100% - 15px);
+      height    : 35px;
+      background: linear-gradient(to bottom, rgba(37, 37, 37, 1), rgba(37, 37, 37, 0));
+      z-index   : 9999;
+    }
+
+    @include respond-to-max($breakpoint--lg) {
+      min-height  : 55px;
+      align-items : center;
+      padding-left: 3.125vw;
+    }
+
+    @include respond-to-max($breakpoint--md) {
+      justify-content: start;
+      padding-left: 6.25vw;
+    }
+  }
+
+  // set flex-direction to reverse the scroll direction
+  // to simulate mobile chat app
+  .chat-container__list-wrapper {
+    background    : $duo-gray-90;
+    display       : flex;
+    flex          : 1;
+    flex-direction: column;
+    overflow      : auto;
+  }
+
+  .chat-container__input {
+    background: $duo-gray-90;
+  }
+
+  .input-with-button {
+    background    : $duo-gray-90;
+    padding-bottom: 10px;
+
+    button {
+      position: absolute;
+      left    : -9999px;
+    }
+
+    input {
+      width         : 100%;
+      border-bottom : 1px solid $duo-gray-50;
+      padding-bottom: 10px;
+      color         : $duo-white;
+      border-radius : 0; // for iOS mobile browsers
+    }
+  }
+
+  @include respond-to-max($breakpoint--sm) {
+    max-height: 100vh;
+    height    : 100vh;
+    padding   : 0;
+
+    .chat-container__header {
+      border-radius: 0;
+    }
+
+    .input-with-button {
+      padding: 6.25vw 0 0;
+    }
+  }
+}

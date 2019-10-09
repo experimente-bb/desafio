@@ -1,0 +1,2001 @@
+salario,gasto_mensal,genero,filhos,escolaridade,imovel,empreendedor,perfil
+9312,4559,f,3,Pós graduado,Não,SIM,Conservador
+1151,1059,m,4,Fundamental Completo,Não,SIM,Não Investidor
+20487,5294,m,1,Pós graduado,SIM,SIM,Agressivo
+6917,4191,f,3,Médio Completo,SIM,SIM,Conservador
+4915,2992,m,2,Médio Incompleto,SIM,Não,Não Investidor
+1981,1857,m,5,Médio Completo,Não,SIM,Não Investidor
+6683,1708,f,3,Pós graduado,Não,SIM,Conservador
+4815,1339,f,5,Fundamental Completo,SIM,Não,Não Investidor
+8254,6595,m,1,Pós graduado,Não,SIM,Moderado
+10435,10316,m,2,Superior Completo,Não,Não,Moderado
+17106,7710,m,1,Pós graduado,SIM,SIM,Agressivo
+4264,3919,m,4,Fundamental Completo,SIM,SIM,Não Investidor
+2283,1714,f,2,Médio Completo,SIM,SIM,Não Investidor
+10218,5439,m,2,Superior Completo,SIM,SIM,Moderado
+15748,7156,m,3,Superior Completo,Não,SIM,Agressivo
+2811,2808,f,2,Médio Incompleto,Não,SIM,Não Investidor
+2604,1582,n,2,Fundamental Completo,SIM,Não,Não Investidor
+10928,7836,m,2,Superior Completo,Não,Não,Moderado
+9279,3113,f,4,Médio Completo,Não,SIM,Conservador
+2017,1943,m,4,Médio Incompleto,SIM,Não,Não Investidor
+3088,2563,m,5,Superior Completo,SIM,SIM,Conservador
+15717,6009,f,1,Superior Completo,Não,Não,Moderado
+23767,5986,m,2,Superior Completo,Não,SIM,Agressivo
+19436,8046,f,1,Superior Completo,Não,Não,Agressivo
+3316,2158,m,4,Fundamental Completo,SIM,SIM,Não Investidor
+13869,13028,f,2,Pós graduado,Não,SIM,Moderado
+14651,7236,m,2,Superior Completo,SIM,Não,Moderado
+12916,7308,f,1,Superior Incompleto,SIM,Não,Moderado
+6283,2949,f,2,Superior Incompleto,SIM,SIM,Conservador
+24882,7978,m,1,Superior Completo,Não,Não,Agressivo
+4617,2642,m,4,Fundamental Incompleto,SIM,SIM,Não Investidor
+5631,868,f,2,Médio Completo,SIM,Não,Conservador
+16008,7990,n,2,Pós graduado,SIM,Não,Agressivo
+3957,1201,m,3,Superior Completo,Não,Não,Conservador
+1323,1218,f,2,Médio Completo,Não,Não,Não Investidor
+16816,6100,m,3,Pós graduado,SIM,SIM,Agressivo
+1669,1332,m,5,Superior Completo,Não,SIM,Conservador
+1767,1529,m,3,Fundamental Incompleto,SIM,Não,Não Investidor
+1991,1254,m,4,Fundamental Completo,SIM,SIM,Não Investidor
+22070,5080,m,2,Superior Completo,SIM,Não,Agressivo
+7801,1958,m,2,Médio Completo,SIM,Não,Conservador
+4548,2370,m,3,Fundamental Completo,SIM,SIM,Não Investidor
+3586,3093,m,4,Pós graduado,Não,Não,Conservador
+3317,2693,f,5,Médio Completo,Não,Não,Conservador
+10266,5842,m,2,Superior Completo,Não,SIM,Moderado
+9173,3849,f,3,Médio Completo,SIM,Não,Conservador
+3538,3374,f,5,Superior Incompleto,SIM,Não,Não Investidor
+21177,7604,m,3,Superior Completo,SIM,SIM,Agressivo
+12710,8082,f,2,Pós graduado,Não,Não,Moderado
+15133,7539,m,2,Superior Completo,SIM,Não,Moderado
+1376,1144,m,5,Médio Incompleto,Não,Não,Não Investidor
+7913,5220,m,2,Superior Completo,Não,Não,Conservador
+6866,5050,m,5,Médio Completo,Não,Não,Conservador
+1225,1015,f,3,Fundamental Completo,SIM,Não,Não Investidor
+16206,9472,m,3,Superior Completo,Não,SIM,Agressivo
+17877,7640,f,3,Pós graduado,Não,Não,Agressivo
+2599,2008,n,2,Médio Completo,SIM,Não,Conservador
+16127,6246,m,0,Superior Completo,SIM,Não,Agressivo
+1672,1280,f,3,Superior Incompleto,Não,SIM,Não Investidor
+4702,1326,m,3,Pós graduado,Não,SIM,Conservador
+14970,13058,m,1,Pós graduado,SIM,Não,Moderado
+3790,1079,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+1059,874,f,5,Pós graduado,SIM,Não,Conservador
+3428,2952,m,2,Médio Incompleto,SIM,Não,Não Investidor
+9014,8527,n,1,Pós graduado,SIM,SIM,Moderado
+1851,1600,m,4,Médio Incompleto,SIM,SIM,Não Investidor
+9646,6045,f,4,Superior Incompleto,Não,SIM,Conservador
+14388,9283,n,1,Pós graduado,SIM,Não,Moderado
+9814,3994,f,1,Pós graduado,SIM,Não,Moderado
+2770,1535,f,3,Pós graduado,Não,SIM,Conservador
+21783,6014,f,1,Pós graduado,Não,Não,Agressivo
+3949,3859,f,4,Fundamental Incompleto,Não,SIM,Não Investidor
+15565,13511,f,2,Superior Completo,Não,Não,Moderado
+13262,7051,m,1,Superior Completo,Não,Não,Moderado
+14112,13302,f,1,Superior Incompleto,SIM,Não,Moderado
+18667,8990,f,0,Pós graduado,SIM,SIM,Agressivo
+2247,1112,m,4,Médio Completo,Não,Não,Não Investidor
+2753,2699,m,5,Médio Completo,SIM,SIM,Não Investidor
+12053,10845,m,2,Superior Completo,Não,SIM,Moderado
+3298,2142,m,3,Fundamental Incompleto,Não,SIM,Não Investidor
+3375,1267,m,3,Pós graduado,Não,Não,Conservador
+4296,3768,m,2,Superior Incompleto,SIM,SIM,Não Investidor
+15352,7600,m,1,Superior Completo,Não,SIM,Moderado
+15275,8225,m,1,Superior Completo,Não,SIM,Moderado
+3853,2300,m,2,Médio Completo,Não,SIM,Não Investidor
+10052,5154,m,2,Superior Incompleto,SIM,Não,Moderado
+11470,7743,m,1,Superior Incompleto,Não,SIM,Moderado
+23304,18232,m,0,Pós graduado,Não,Não,Agressivo
+3336,2995,n,5,Fundamental Incompleto,SIM,SIM,Não Investidor
+24798,5124,m,3,Pós graduado,SIM,Não,Agressivo
+1053,1003,f,4,Fundamental Completo,Não,Não,Não Investidor
+2988,2675,f,5,Fundamental Completo,Não,Não,Não Investidor
+10946,8074,f,1,Superior Incompleto,SIM,SIM,Moderado
+17116,9627,m,3,Pós graduado,Não,SIM,Agressivo
+3289,1561,m,3,Fundamental Completo,Não,Não,Não Investidor
+1659,1259,f,4,Superior Completo,SIM,SIM,Conservador
+7267,1277,m,5,Médio Completo,SIM,Não,Conservador
+20685,11168,n,2,Superior Incompleto,SIM,SIM,Não Investidor
+13638,10506,m,2,Pós graduado,SIM,SIM,Moderado
+21428,8140,m,3,Pós graduado,Não,Não,Agressivo
+3669,3432,n,3,Pós graduado,Não,Não,Conservador
+5709,3093,m,5,Superior Completo,SIM,SIM,Conservador
+3998,1340,m,2,Superior Incompleto,SIM,SIM,Não Investidor
+9004,8222,m,1,Pós graduado,SIM,SIM,Moderado
+19371,7833,m,3,Superior Completo,Não,SIM,Agressivo
+2671,1074,f,5,Médio Completo,SIM,SIM,Conservador
+17453,5379,f,1,Superior Completo,SIM,SIM,Agressivo
+9798,8753,f,4,Superior Incompleto,Não,Não,Conservador
+10369,6628,f,1,Pós graduado,SIM,Não,Moderado
+23270,7682,m,1,Pós graduado,SIM,Não,Agressivo
+14537,11673,f,2,Superior Incompleto,Não,SIM,Moderado
+17764,7486,f,0,Pós graduado,Não,SIM,Agressivo
+3174,1394,f,3,Superior Incompleto,SIM,Não,Conservador
+1457,1135,f,3,Médio Completo,SIM,SIM,Conservador
+8794,6479,m,1,Superior Incompleto,SIM,SIM,Moderado
+3634,2509,m,2,Médio Completo,Não,SIM,Não Investidor
+4667,3163,f,2,Superior Incompleto,Não,Não,Conservador
+16182,10188,m,2,Superior Incompleto,Não,SIM,Moderado
+10085,8059,m,2,Pós graduado,SIM,Não,Moderado
+19298,5009,f,1,Superior Completo,Não,SIM,Agressivo
+17129,7526,m,1,Pós graduado,SIM,Não,Agressivo
+21549,5441,f,0,Pós graduado,SIM,Não,Agressivo
+24447,7299,m,0,Superior Completo,SIM,Não,Agressivo
+16754,9700,m,1,Superior Incompleto,Não,SIM,Moderado
+8668,5052,m,0,Fundamental Completo,Não,SIM,Conservador
+5772,5142,m,3,Superior Completo,Não,SIM,Conservador
+22484,5890,m,1,Pós graduado,SIM,SIM,Agressivo
+3000,2105,m,4,Fundamental Incompleto,SIM,Não,Não Investidor
+3931,3095,n,3,Superior Incompleto,Não,Não,Conservador
+15091,8050,m,0,Pós graduado,SIM,SIM,Agressivo
+20350,9401,m,3,Superior Completo,SIM,Não,Agressivo
+3794,1862,f,2,Médio Completo,SIM,SIM,Não Investidor
+3821,3222,f,2,Superior Incompleto,Não,Não,Não Investidor
+15476,6071,f,2,Pós graduado,SIM,Não,Agressivo
+4061,1741,n,2,Médio Completo,SIM,SIM,Não Investidor
+18960,5655,m,2,Pós graduado,Não,SIM,Agressivo
+21089,9698,f,2,Superior Completo,SIM,Não,Agressivo
+6805,3475,m,2,Superior Incompleto,SIM,SIM,Conservador
+1887,1757,m,4,Fundamental Incompleto,Não,SIM,Não Investidor
+1609,1189,m,3,Fundamental Incompleto,SIM,Não,Não Investidor
+2533,2500,f,4,Superior Completo,SIM,Não,Conservador
+2479,1122,n,5,Médio Completo,Não,Não,Não Investidor
+1270,1057,f,5,Médio Completo,Não,SIM,Não Investidor
+22085,5553,m,3,Superior Completo,SIM,SIM,Agressivo
+5948,1253,n,5,Superior Incompleto,Não,SIM,Conservador
+9346,6829,m,3,Superior Completo,Não,Não,Conservador
+16037,10494,m,1,Pós graduado,Não,Não,Moderado
+4257,2500,m,4,Fundamental Completo,SIM,Não,Não Investidor
+6392,1335,m,2,Médio Completo,SIM,Não,Conservador
+22501,7338,f,2,Superior Completo,SIM,Não,Agressivo
+6513,847,m,2,Superior Completo,SIM,Não,Conservador
+16669,6316,f,0,Superior Completo,SIM,Não,Agressivo
+24212,8264,m,0,Superior Completo,Não,SIM,Agressivo
+19648,9518,m,2,Superior Completo,SIM,SIM,Agressivo
+3485,3317,f,4,Médio Completo,Não,Não,Não Investidor
+19397,9747,f,1,Superior Completo,SIM,SIM,Agressivo
+6760,2739,m,2,Médio Completo,SIM,SIM,Conservador
+2489,1522,f,2,Médio Completo,SIM,SIM,Não Investidor
+5705,3562,m,3,Pós graduado,SIM,SIM,Conservador
+14623,7276,f,1,Superior Incompleto,Não,Não,Moderado
+4976,2395,f,3,Superior Incompleto,SIM,SIM,Não Investidor
+1680,1376,m,3,Fundamental Incompleto,SIM,Não,Não Investidor
+5104,4060,f,2,Superior Completo,SIM,SIM,Conservador
+4183,1613,m,3,Fundamental Incompleto,SIM,SIM,Não Investidor
+2717,1233,f,4,Superior Incompleto,SIM,Não,Não Investidor
+18417,7526,f,2,Pós graduado,Não,Não,Agressivo
+1147,1072,m,2,Superior Incompleto,Não,SIM,Não Investidor
+1408,984,m,3,Pós graduado,SIM,Não,Conservador
+16620,9865,m,1,Fundamental Incompleto,Não,SIM,Conservador
+2667,1546,f,3,Médio Completo,SIM,SIM,Conservador
+8559,7766,m,2,Pós graduado,SIM,Não,Moderado
+4501,4304,m,2,Médio Completo,SIM,SIM,Conservador
+2978,2123,m,5,Médio Incompleto,Não,SIM,Não Investidor
+21982,5148,f,3,Superior Completo,SIM,Não,Agressivo
+1657,1390,m,5,Médio Completo,SIM,SIM,Conservador
+24237,5633,f,2,Superior Completo,SIM,Não,Agressivo
+19819,5769,m,0,Superior Completo,SIM,SIM,Agressivo
+23232,9452,f,1,Superior Completo,SIM,Não,Agressivo
+20671,5856,m,3,Superior Completo,Não,SIM,Agressivo
+14217,13730,n,1,Superior Incompleto,Não,SIM,Moderado
+16342,5058,m,1,Superior Completo,Não,Não,Moderado
+15873,8286,f,2,Superior Incompleto,Não,Não,Moderado
+13626,11867,m,2,Pós graduado,SIM,Não,Moderado
+4762,4367,m,5,Médio Completo,SIM,Não,Não Investidor
+23803,9160,m,0,Pós graduado,SIM,SIM,Agressivo
+2325,1835,f,4,Médio Completo,SIM,Não,Conservador
+11604,5951,f,2,Superior Incompleto,Não,SIM,Moderado
+3316,2807,f,4,Superior Incompleto,SIM,Não,Conservador
+18799,9707,m,1,Pós graduado,SIM,SIM,Agressivo
+2091,931,m,4,Superior Incompleto,SIM,Não,Conservador
+1512,1203,m,5,Fundamental Incompleto,SIM,Não,Não Investidor
+19635,1490,f,3,Médio Incompleto,Não,SIM,Não Investidor
+8636,7707,m,2,Superior Incompleto,Não,SIM,Moderado
+15038,14267,m,1,Superior Completo,Não,SIM,Moderado
+1902,1122,m,4,Médio Incompleto,Não,Não,Não Investidor
+4738,3768,f,5,Médio Completo,SIM,SIM,Não Investidor
+4703,3093,m,3,Superior Incompleto,Não,SIM,Não Investidor
+20704,7137,f,0,Pós graduado,SIM,Não,Agressivo
+9660,4543,n,4,Pós graduado,SIM,SIM,Conservador
+2159,1661,n,0,Fundamental Incompleto,SIM,SIM,Moderado
+16794,14508,f,1,Pós graduado,SIM,SIM,Moderado
+2520,1872,m,4,Superior Incompleto,SIM,SIM,Conservador
+18586,5778,f,3,Pós graduado,Não,SIM,Agressivo
+15004,8569,f,1,Superior Completo,SIM,Não,Agressivo
+15115,11373,m,2,Pós graduado,SIM,SIM,Moderado
+2882,885,m,4,Superior Completo,Não,Não,Conservador
+15001,9408,m,1,Superior Completo,SIM,Não,Moderado
+1385,1292,m,4,Médio Completo,Não,Não,Não Investidor
+6288,3846,f,1,Médio Incompleto,SIM,Não,Agressivo
+15757,9491,m,1,Superior Incompleto,Não,Não,Moderado
+16646,5937,f,0,Pós graduado,SIM,Não,Agressivo
+4709,4627,f,3,Médio Completo,SIM,Não,Não Investidor
+6082,4892,f,5,Superior Incompleto,SIM,SIM,Conservador
+16308,7722,m,0,Superior Completo,Não,Não,Agressivo
+4733,4265,f,5,Médio Incompleto,Não,SIM,Não Investidor
+22804,9685,m,3,Superior Completo,Não,Não,Agressivo
+9431,2225,n,3,Médio Completo,SIM,Não,Conservador
+14046,8848,m,1,Superior Completo,Não,SIM,Moderado
+16617,8727,m,1,Pós graduado,SIM,Não,Moderado
+11222,6049,f,1,Pós graduado,SIM,SIM,Moderado
+4702,1582,m,5,Fundamental Completo,SIM,SIM,Não Investidor
+20655,9181,f,0,Superior Completo,Não,Não,Agressivo
+12200,10450,m,1,Superior Incompleto,SIM,Não,Moderado
+4049,3443,n,5,Pós graduado,SIM,SIM,Conservador
+18305,9052,m,2,Superior Completo,Não,Não,Agressivo
+10622,5780,f,1,Superior Incompleto,Não,Não,Moderado
+16848,7177,f,1,Superior Completo,SIM,SIM,Conservador
+2350,1657,n,3,Médio Incompleto,Não,Não,Não Investidor
+4707,1837,m,2,Fundamental Incompleto,Não,SIM,Não Investidor
+4818,4450,m,2,Superior Completo,SIM,SIM,Conservador
+11069,10492,f,1,Superior Incompleto,SIM,Não,Moderado
+4846,4475,m,3,Superior Incompleto,SIM,Não,Não Investidor
+1925,1438,m,2,Superior Incompleto,Não,Não,Não Investidor
+15754,5092,m,1,Pós graduado,SIM,SIM,Moderado
+15638,5503,m,2,Superior Completo,SIM,SIM,Moderado
+12678,5516,m,1,Pós graduado,Não,Não,Moderado
+19474,5689,f,0,Superior Completo,Não,Não,Agressivo
+13832,11155,m,1,Superior Completo,SIM,SIM,Moderado
+16344,1623,f,4,Pós graduado,SIM,Não,Não Investidor
+13734,9571,m,2,Superior Incompleto,Não,Não,Moderado
+2363,1582,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+9386,5326,m,1,Pós graduado,SIM,Não,Moderado
+3893,2053,f,2,Superior Incompleto,Não,SIM,Não Investidor
+3860,1890,m,5,Médio Completo,Não,Não,Conservador
+22795,8699,f,0,Pós graduado,SIM,Não,Agressivo
+1690,1540,m,4,Superior Completo,SIM,SIM,Conservador
+11013,5152,m,1,Superior Incompleto,SIM,SIM,Moderado
+11179,6372,m,5,Superior Completo,SIM,Não,Agressivo
+2718,1981,m,5,Fundamental Completo,Não,SIM,Não Investidor
+15657,12490,f,2,Pós graduado,SIM,SIM,Moderado
+3718,3303,n,2,Médio Completo,SIM,Não,Não Investidor
+1671,1137,f,3,Fundamental Incompleto,Não,SIM,Não Investidor
+3211,2369,m,4,Superior Incompleto,Não,SIM,Não Investidor
+22577,7440,m,2,Pós graduado,Não,Não,Agressivo
+19665,7439,m,2,Pós graduado,Não,SIM,Agressivo
+11135,9319,f,1,Superior Completo,Não,SIM,Moderado
+1964,1202,m,4,Superior Incompleto,SIM,SIM,Não Investidor
+15625,9074,m,1,Superior Completo,SIM,Não,Moderado
+4269,3681,m,4,Médio Completo,Não,SIM,Conservador
+2081,1402,n,3,Fundamental Completo,Não,SIM,Não Investidor
+2930,2270,f,3,Superior Incompleto,SIM,SIM,Conservador
+21525,7532,f,2,Pós graduado,SIM,Não,Agressivo
+11224,6754,n,2,Pós graduado,Não,Não,Moderado
+8517,7133,m,2,Superior Incompleto,Não,Não,Moderado
+5087,4126,m,3,Pós graduado,Não,Não,Conservador
+3230,1035,m,2,Fundamental Completo,SIM,Não,Não Investidor
+8629,7508,f,1,Superior Incompleto,SIM,SIM,Moderado
+8255,6152,f,4,Superior Completo,Não,SIM,Conservador
+4430,3919,n,3,Superior Incompleto,SIM,SIM,Não Investidor
+1537,1076,m,3,Superior Incompleto,Não,SIM,Não Investidor
+4198,3661,f,5,Superior Incompleto,Não,Não,Não Investidor
+3722,3352,f,3,Superior Incompleto,SIM,Não,Conservador
+12273,11279,f,2,Superior Incompleto,SIM,SIM,Moderado
+19326,6030,n,3,Superior Completo,Não,Não,Agressivo
+20003,5060,m,0,Superior Completo,Não,Não,Agressivo
+1295,1139,f,2,Fundamental Incompleto,SIM,Não,Não Investidor
+4863,920,n,5,Superior Completo,SIM,SIM,Conservador
+20823,18055,n,1,Superior Incompleto,Não,Não,Agressivo
+16186,6635,n,3,Pós graduado,SIM,SIM,Agressivo
+3983,1212,m,5,Médio Incompleto,Não,SIM,Não Investidor
+15464,7937,m,0,Pós graduado,SIM,Não,Agressivo
+5207,3724,m,4,Médio Completo,Não,SIM,Conservador
+22515,6499,m,3,Superior Completo,SIM,Não,Agressivo
+23790,6036,f,2,Pós graduado,SIM,SIM,Agressivo
+10075,4015,f,4,Superior Incompleto,Não,Não,Não Investidor
+21952,5049,f,3,Superior Completo,Não,SIM,Agressivo
+24662,9470,f,1,Pós graduado,SIM,SIM,Agressivo
+13728,11273,n,1,Pós graduado,Não,Não,Moderado
+14687,9175,n,1,Superior Completo,SIM,Não,Moderado
+2342,889,m,4,Pós graduado,Não,SIM,Conservador
+2542,1219,m,3,Superior Incompleto,Não,Não,Conservador
+3531,2526,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+1001,959,f,2,Pós graduado,SIM,SIM,Conservador
+11768,7986,f,1,Pós graduado,Não,SIM,Moderado
+6117,886,f,4,Superior Incompleto,SIM,SIM,Conservador
+2342,1053,m,4,Superior Incompleto,SIM,SIM,Não Investidor
+8067,2048,f,3,Superior Incompleto,Não,SIM,Conservador
+5919,3531,m,5,Pós graduado,SIM,Não,Conservador
+1492,1457,f,4,Fundamental Incompleto,Não,Não,Não Investidor
+13819,12933,m,1,Pós graduado,SIM,Não,Moderado
+4596,3345,m,4,Médio Incompleto,Não,SIM,Não Investidor
+6308,6274,n,3,Fundamental Completo,SIM,Não,Moderado
+6682,4278,m,5,Pós graduado,SIM,Não,Conservador
+19937,7965,f,1,Pós graduado,Não,SIM,Agressivo
+2885,1239,m,3,Superior Completo,SIM,Não,Conservador
+9869,1182,m,4,Médio Completo,Não,Não,Conservador
+8977,6633,n,2,Médio Completo,SIM,SIM,Conservador
+3401,2383,m,5,Médio Incompleto,SIM,SIM,Não Investidor
+4844,1653,f,3,Pós graduado,Não,Não,Conservador
+8211,4341,f,4,Pós graduado,SIM,SIM,Conservador
+13005,1934,n,1,Fundamental Incompleto,Não,Não,Não Investidor
+9284,3476,m,5,Médio Completo,Não,SIM,Conservador
+2207,1127,m,5,Fundamental Completo,Não,Não,Não Investidor
+3093,2813,m,4,Médio Completo,SIM,Não,Não Investidor
+1793,1384,m,1,Pós graduado,Não,SIM,Não Investidor
+11750,5755,n,2,Pós graduado,Não,SIM,Moderado
+13188,8472,m,2,Superior Incompleto,SIM,Não,Moderado
+2453,2184,n,3,Médio Incompleto,Não,SIM,Não Investidor
+9268,2450,f,5,Pós graduado,Não,Não,Conservador
+1648,1223,m,2,Médio Incompleto,Não,Não,Não Investidor
+4600,3283,f,2,Médio Completo,Não,Não,Não Investidor
+2565,1717,m,3,Médio Incompleto,Não,SIM,Não Investidor
+8437,4009,m,4,Pós graduado,Não,Não,Conservador
+1323,1098,f,3,Fundamental Completo,SIM,SIM,Não Investidor
+8173,5101,f,5,Superior Completo,SIM,SIM,Conservador
+2868,1406,m,5,Fundamental Incompleto,Não,Não,Não Investidor
+5955,5942,m,4,Superior Incompleto,SIM,Não,Conservador
+2783,1193,m,5,Superior Incompleto,SIM,Não,Não Investidor
+2501,1611,m,3,Superior Incompleto,Não,Não,Não Investidor
+18630,7987,m,2,Pós graduado,Não,Não,Agressivo
+21531,7216,n,3,Superior Completo,SIM,Não,Agressivo
+4895,4154,m,4,Superior Incompleto,Não,Não,Não Investidor
+10419,8021,n,1,Superior Completo,Não,SIM,Moderado
+3803,2296,n,2,Médio Incompleto,Não,Não,Não Investidor
+19469,7455,f,3,Superior Completo,SIM,Não,Agressivo
+1180,983,n,4,Superior Completo,Não,Não,Conservador
+10808,4339,n,0,Médio Completo,SIM,SIM,Moderado
+14310,5052,f,2,Pós graduado,Não,Não,Moderado
+4644,1755,f,2,Médio Completo,SIM,Não,Conservador
+5807,5317,m,4,Médio Completo,SIM,SIM,Conservador
+18147,6675,m,3,Pós graduado,SIM,Não,Agressivo
+5628,2075,m,4,Superior Completo,SIM,SIM,Conservador
+18306,5564,m,0,Pós graduado,Não,Não,Agressivo
+20529,8622,m,0,Superior Completo,SIM,SIM,Agressivo
+15976,7495,m,0,Pós graduado,SIM,SIM,Agressivo
+11998,11501,f,2,Pós graduado,Não,Não,Moderado
+3293,2477,f,2,Médio Completo,SIM,SIM,Não Investidor
+1720,1139,f,4,Fundamental Incompleto,SIM,SIM,Não Investidor
+23744,7365,m,1,Superior Completo,SIM,Não,Agressivo
+9164,1510,m,5,Superior Completo,SIM,Não,Conservador
+12363,9279,f,2,Superior Incompleto,Não,SIM,Moderado
+9354,7760,n,2,Superior Completo,SIM,SIM,Moderado
+13201,9283,f,2,Pós graduado,Não,Não,Moderado
+1980,1722,m,2,Médio Incompleto,Não,Não,Não Investidor
+4941,1431,f,4,Superior Incompleto,Não,SIM,Conservador
+8235,8156,m,1,Superior Incompleto,SIM,SIM,Moderado
+15694,7752,m,0,Superior Completo,Não,Não,Agressivo
+1969,1438,m,3,Fundamental Completo,SIM,Não,Não Investidor
+14551,11628,f,5,Médio Completo,Não,Não,Agressivo
+22290,5952,m,1,Pós graduado,Não,SIM,Agressivo
+23779,6278,f,1,Pós graduado,SIM,SIM,Agressivo
+1175,1118,f,3,Fundamental Completo,Não,Não,Não Investidor
+6768,877,f,5,Superior Incompleto,Não,Não,Conservador
+7554,2651,m,5,Pós graduado,Não,Não,Conservador
+14025,9462,f,2,Pós graduado,Não,SIM,Moderado
+18831,5062,n,0,Superior Completo,Não,SIM,Agressivo
+1662,1027,f,3,Superior Incompleto,Não,SIM,Conservador
+24291,8197,f,2,Pós graduado,SIM,Não,Agressivo
+2811,2584,f,2,Médio Completo,Não,Não,Não Investidor
+2461,1305,n,5,Superior Incompleto,SIM,SIM,Conservador
+3206,1532,m,2,Médio Incompleto,Não,SIM,Não Investidor
+13961,10659,f,2,Pós graduado,SIM,Não,Moderado
+24530,6750,f,3,Pós graduado,Não,Não,Agressivo
+15317,5229,n,2,Superior Completo,Não,Não,Agressivo
+16417,8023,n,2,Superior Completo,Não,SIM,Agressivo
+3334,1158,f,5,Fundamental Completo,Não,Não,Não Investidor
+15846,12645,f,1,Superior Incompleto,Não,Não,Moderado
+2786,2170,f,4,Médio Completo,Não,SIM,Não Investidor
+4760,2227,n,3,Fundamental Completo,SIM,Não,Não Investidor
+3495,2232,m,3,Superior Completo,Não,Não,Conservador
+8247,5834,n,1,Pós graduado,SIM,SIM,Moderado
+7143,2159,m,4,Médio Completo,Não,Não,Conservador
+2810,2056,f,3,Médio Incompleto,SIM,SIM,Não Investidor
+16391,7124,f,2,Pós graduado,Não,Não,Moderado
+3016,1257,m,4,Superior Incompleto,SIM,SIM,Não Investidor
+3415,3183,m,3,Fundamental Incompleto,SIM,SIM,Não Investidor
+4577,4068,m,4,Fundamental Completo,SIM,SIM,Não Investidor
+8501,6979,f,2,Superior Completo,Não,SIM,Moderado
+19737,6463,m,1,Pós graduado,SIM,Não,Agressivo
+6951,6186,f,2,Médio Completo,Não,Não,Conservador
+14876,11695,f,2,Pós graduado,SIM,Não,Moderado
+10111,8878,m,2,Pós graduado,SIM,Não,Moderado
+7180,4495,m,3,Superior Completo,Não,SIM,Conservador
+2761,2090,m,2,Médio Incompleto,SIM,Não,Não Investidor
+4651,3604,f,4,Médio Completo,Não,Não,Conservador
+8417,5256,m,1,Superior Completo,Não,SIM,Moderado
+19615,5255,m,1,Superior Completo,SIM,Não,Agressivo
+1463,1047,m,5,Fundamental Completo,Não,Não,Não Investidor
+4597,3762,n,5,Médio Completo,SIM,SIM,Não Investidor
+1690,1290,m,5,Fundamental Incompleto,Não,Não,Não Investidor
+10709,6928,n,2,Superior Incompleto,Não,SIM,Moderado
+10116,6161,m,2,Superior Completo,Não,Não,Moderado
+4930,4181,f,5,Superior Incompleto,SIM,Não,Conservador
+1203,1122,n,5,Superior Incompleto,SIM,Não,Conservador
+4549,3205,m,4,Médio Incompleto,SIM,SIM,Não Investidor
+20594,8140,m,3,Superior Completo,SIM,SIM,Agressivo
+19796,5430,m,3,Superior Completo,Não,SIM,Agressivo
+6795,3052,m,2,Superior Completo,Não,SIM,Conservador
+20004,8705,m,3,Superior Completo,SIM,Não,Agressivo
+10255,6075,f,2,Superior Completo,SIM,Não,Moderado
+8069,7810,m,1,Pós graduado,Não,Não,Moderado
+19438,8501,m,3,Pós graduado,SIM,SIM,Agressivo
+3585,2710,n,5,Superior Incompleto,SIM,SIM,Conservador
+8578,3407,n,3,Superior Incompleto,SIM,Não,Conservador
+5901,4961,m,2,Superior Completo,Não,SIM,Conservador
+15996,5243,f,0,Pós graduado,Não,Não,Agressivo
+13718,12054,m,2,Superior Completo,Não,SIM,Moderado
+2446,1429,m,4,Superior Incompleto,SIM,SIM,Não Investidor
+20426,8390,m,3,Pós graduado,SIM,SIM,Agressivo
+4146,4020,m,2,Médio Incompleto,SIM,SIM,Não Investidor
+9808,8886,f,1,Pós graduado,Não,SIM,Moderado
+15527,8278,m,2,Pós graduado,SIM,Não,Agressivo
+12575,6018,m,5,Médio Incompleto,Não,SIM,Moderado
+13688,8879,f,1,Superior Completo,SIM,SIM,Moderado
+23078,6547,m,2,Superior Completo,Não,SIM,Agressivo
+6843,6517,n,4,Superior Incompleto,SIM,Não,Conservador
+17155,9709,n,2,Pós graduado,Não,Não,Agressivo
+2154,2110,f,4,Superior Completo,SIM,Não,Conservador
+3960,1778,n,4,Fundamental Incompleto,Não,SIM,Não Investidor
+17529,5896,m,2,Pós graduado,SIM,SIM,Agressivo
+1963,1864,n,5,Médio Completo,Não,SIM,Não Investidor
+20545,8683,m,0,Pós graduado,SIM,Não,Agressivo
+23973,7090,f,2,Pós graduado,SIM,SIM,Agressivo
+9615,6920,n,1,Pós graduado,SIM,Não,Moderado
+2282,1835,m,5,Superior Incompleto,Não,SIM,Não Investidor
+13496,4323,m,1,Fundamental Incompleto,SIM,Não,Não Investidor
+14250,12296,f,1,Superior Incompleto,SIM,Não,Moderado
+1563,1397,n,3,Fundamental Completo,Não,Não,Não Investidor
+6232,6099,f,4,Superior Incompleto,Não,Não,Conservador
+8218,7426,m,2,Superior Completo,SIM,SIM,Moderado
+9217,8921,m,2,Superior Incompleto,Não,SIM,Conservador
+1581,1408,f,3,Médio Completo,Não,SIM,Não Investidor
+9107,8373,m,2,Médio Completo,Não,Não,Conservador
+9187,5328,m,1,Superior Completo,SIM,Não,Moderado
+9108,8562,m,2,Médio Completo,SIM,SIM,Conservador
+12752,10677,f,2,Superior Completo,Não,Não,Moderado
+20901,6461,m,2,Pós graduado,Não,SIM,Agressivo
+9381,5967,f,2,Pós graduado,SIM,SIM,Moderado
+23713,6438,m,0,Pós graduado,SIM,Não,Agressivo
+8647,7753,f,2,Superior Incompleto,Não,Não,Conservador
+9919,8479,m,1,Superior Incompleto,SIM,Não,Moderado
+1458,1415,f,5,Pós graduado,SIM,SIM,Conservador
+9013,6743,m,2,Superior Incompleto,Não,Não,Moderado
+13761,7757,f,2,Pós graduado,SIM,Não,Moderado
+3981,2938,m,4,Fundamental Incompleto,SIM,SIM,Não Investidor
+9556,1393,f,3,Pós graduado,SIM,Não,Conservador
+2997,2127,n,3,Superior Incompleto,Não,Não,Não Investidor
+24112,6874,m,1,Superior Completo,Não,SIM,Agressivo
+1402,1133,f,5,Superior Incompleto,Não,Não,Não Investidor
+1193,1114,f,5,Superior Incompleto,SIM,SIM,Não Investidor
+5651,4305,m,2,Superior Incompleto,Não,SIM,Conservador
+23714,5966,n,0,Superior Completo,Não,Não,Agressivo
+4622,2595,m,4,Médio Incompleto,Não,Não,Não Investidor
+15081,6605,n,0,Pós graduado,SIM,SIM,Agressivo
+1786,1079,f,2,Médio Incompleto,Não,Não,Não Investidor
+14704,13610,f,3,Médio Completo,SIM,SIM,Conservador
+24212,6210,m,0,Superior Completo,SIM,Não,Agressivo
+1105,1014,m,5,Fundamental Incompleto,SIM,Não,Não Investidor
+11858,5832,m,2,Superior Incompleto,SIM,Não,Moderado
+13090,5392,m,3,Fundamental Completo,SIM,SIM,Conservador
+15638,14150,m,1,Pós graduado,Não,SIM,Moderado
+3292,1068,m,3,Médio Completo,SIM,SIM,Não Investidor
+21467,7199,f,2,Superior Completo,Não,Não,Agressivo
+7400,5778,f,3,Superior Completo,Não,SIM,Conservador
+21912,6642,f,0,Superior Completo,Não,Não,Agressivo
+14508,13417,m,1,Pós graduado,SIM,SIM,Moderado
+9909,8030,f,1,Superior Incompleto,SIM,Não,Moderado
+999,998,m,3,Superior Incompleto,SIM,Não,Não Investidor
+19223,8526,m,3,Pós graduado,SIM,SIM,Agressivo
+7415,2658,m,3,Pós graduado,SIM,SIM,Conservador
+2832,2090,m,4,Fundamental Incompleto,Não,SIM,Não Investidor
+5546,2190,m,4,Médio Completo,Não,Não,Conservador
+1501,891,m,3,Pós graduado,Não,Não,Conservador
+12549,12032,f,0,Pós graduado,Não,Não,Agressivo
+2549,1760,f,3,Superior Incompleto,Não,SIM,Não Investidor
+17033,7558,f,1,Pós graduado,Não,SIM,Agressivo
+20864,9831,m,0,Pós graduado,Não,Não,Agressivo
+2406,1439,m,3,Fundamental Incompleto,Não,Não,Não Investidor
+3891,3679,f,3,Superior Completo,Não,SIM,Conservador
+8387,6992,m,1,Pós graduado,Não,SIM,Moderado
+1025,1012,m,5,Fundamental Incompleto,Não,SIM,Não Investidor
+9123,2331,f,2,Pós graduado,SIM,SIM,Conservador
+16382,10340,f,1,Superior Completo,SIM,SIM,Moderado
+13074,9627,m,1,Superior Completo,Não,Não,Moderado
+2265,1282,m,4,Fundamental Completo,Não,SIM,Não Investidor
+11948,7328,m,2,Superior Incompleto,SIM,Não,Moderado
+9941,3309,n,3,Superior Incompleto,Não,SIM,Conservador
+20627,6609,m,2,Pós graduado,SIM,SIM,Agressivo
+3982,2368,f,2,Pós graduado,Não,Não,Conservador
+2374,1347,m,4,Médio Completo,SIM,Não,Não Investidor
+3599,3121,f,4,Médio Completo,SIM,SIM,Não Investidor
+17669,7338,f,0,Pós graduado,SIM,SIM,Agressivo
+9373,8328,m,1,Pós graduado,Não,SIM,Moderado
+20887,6472,f,0,Superior Completo,Não,Não,Agressivo
+8588,6513,f,2,Superior Incompleto,SIM,Não,Moderado
+23776,5562,m,3,Superior Completo,SIM,SIM,Agressivo
+9152,5482,m,4,Médio Completo,SIM,Não,Conservador
+2777,1212,m,2,Médio Incompleto,Não,Não,Não Investidor
+9278,7499,m,1,Superior Completo,Não,Não,Moderado
+8014,5739,m,2,Superior Incompleto,SIM,Não,Conservador
+18048,5968,m,3,Pós graduado,SIM,Não,Agressivo
+18517,9116,n,3,Superior Completo,SIM,SIM,Agressivo
+4264,1584,f,5,Superior Incompleto,Não,Não,Não Investidor
+1544,1194,m,4,Superior Incompleto,SIM,SIM,Conservador
+17984,8747,m,1,Superior Completo,SIM,Não,Agressivo
+6015,1314,f,5,Superior Completo,SIM,Não,Conservador
+18286,6498,m,3,Superior Completo,SIM,Não,Agressivo
+6515,2336,m,2,Pós graduado,Não,SIM,Conservador
+4177,4169,m,5,Fundamental Completo,SIM,SIM,Não Investidor
+16178,3045,m,3,Fundamental Completo,SIM,Não,Agressivo
+16938,8085,n,1,Pós graduado,SIM,Não,Moderado
+8150,6142,f,3,Superior Completo,Não,Não,Conservador
+8242,6478,f,1,Pós graduado,Não,Não,Moderado
+2325,841,m,4,Pós graduado,Não,Não,Conservador
+1576,982,f,5,Médio Completo,Não,Não,Conservador
+1375,1150,m,5,Superior Completo,SIM,SIM,Conservador
+9687,8818,f,1,Pós graduado,SIM,SIM,Moderado
+15114,8081,f,3,Superior Completo,SIM,SIM,Agressivo
+18295,17661,m,4,Fundamental Completo,Não,SIM,Conservador
+12018,9861,m,2,Superior Incompleto,SIM,SIM,Moderado
+4758,4305,m,4,Médio Incompleto,Não,Não,Não Investidor
+1873,1590,m,3,Fundamental Incompleto,SIM,SIM,Não Investidor
+16087,8509,n,1,Pós graduado,Não,Não,Moderado
+1210,1203,f,4,Fundamental Completo,SIM,SIM,Não Investidor
+3859,3011,m,5,Médio Incompleto,SIM,SIM,Não Investidor
+1034,1005,m,5,Fundamental Completo,SIM,SIM,Não Investidor
+4470,1666,m,3,Médio Incompleto,SIM,Não,Não Investidor
+24901,5756,m,3,Superior Completo,Não,SIM,Agressivo
+22567,8944,m,1,Pós graduado,SIM,Não,Agressivo
+8409,6318,m,2,Superior Incompleto,Não,SIM,Moderado
+22813,5649,f,2,Superior Completo,Não,Não,Agressivo
+1487,1450,m,2,Superior Incompleto,Não,SIM,Conservador
+3724,1796,f,4,Fundamental Completo,SIM,Não,Não Investidor
+4462,1890,f,4,Médio Incompleto,Não,Não,Não Investidor
+16551,9934,f,1,Pós graduado,Não,Não,Agressivo
+17487,7310,n,3,Pós graduado,Não,Não,Agressivo
+11800,10694,m,1,Superior Completo,Não,SIM,Moderado
+24464,5962,f,1,Superior Completo,SIM,Não,Agressivo
+13409,7480,f,1,Superior Completo,Não,Não,Moderado
+9672,2969,f,5,Médio Completo,SIM,Não,Conservador
+16137,6262,f,0,Superior Completo,SIM,SIM,Agressivo
+9922,7946,m,3,Superior Incompleto,SIM,SIM,Conservador
+14586,7534,f,2,Superior Completo,SIM,SIM,Moderado
+15369,9504,m,0,Superior Completo,Não,Não,Agressivo
+3501,1865,f,3,Pós graduado,SIM,Não,Conservador
+22085,8385,m,0,Superior Completo,SIM,Não,Agressivo
+8012,7245,f,1,Superior Completo,Não,SIM,Moderado
+6903,5865,m,3,Superior Incompleto,SIM,SIM,Conservador
+18674,8695,f,0,Superior Completo,Não,Não,Agressivo
+17616,9896,f,1,Superior Completo,SIM,SIM,Agressivo
+20363,7023,m,2,Superior Completo,Não,SIM,Agressivo
+2863,1245,m,2,Superior Incompleto,Não,Não,Não Investidor
+1992,1584,m,2,Médio Incompleto,SIM,Não,Não Investidor
+16516,16038,f,2,Pós graduado,Não,SIM,Moderado
+14137,8172,m,2,Superior Incompleto,Não,SIM,Moderado
+8534,7870,f,1,Superior Incompleto,SIM,SIM,Moderado
+3056,1359,n,2,Superior Incompleto,SIM,Não,Conservador
+14638,11917,f,1,Superior Completo,SIM,SIM,Moderado
+3381,1197,f,4,Fundamental Completo,Não,Não,Não Investidor
+13733,6242,f,2,Pós graduado,Não,Não,Moderado
+8257,6115,f,2,Superior Incompleto,SIM,SIM,Moderado
+1105,817,m,3,Superior Incompleto,SIM,SIM,Conservador
+21006,7699,m,3,Pós graduado,SIM,SIM,Agressivo
+4758,2907,m,4,Pós graduado,SIM,SIM,Conservador
+3652,1258,m,4,Superior Incompleto,Não,SIM,Conservador
+4305,2739,m,2,Pós graduado,SIM,Não,Conservador
+23038,9150,f,1,Pós graduado,SIM,SIM,Agressivo
+22240,7929,m,3,Superior Completo,SIM,SIM,Agressivo
+3892,1403,m,3,Superior Incompleto,SIM,Não,Conservador
+13284,11911,m,2,Pós graduado,SIM,SIM,Moderado
+4446,1137,f,2,Médio Incompleto,SIM,Não,Não Investidor
+2672,2235,m,2,Superior Incompleto,Não,SIM,Não Investidor
+11952,5516,m,5,Médio Completo,SIM,SIM,Não Investidor
+13042,11268,m,2,Superior Incompleto,Não,Não,Moderado
+4207,2540,m,2,Médio Incompleto,SIM,SIM,Não Investidor
+1940,1235,f,3,Pós graduado,SIM,Não,Conservador
+2016,1726,m,5,Médio Incompleto,SIM,Não,Não Investidor
+24137,7315,n,2,Pós graduado,SIM,Não,Agressivo
+4729,4374,m,4,Superior Incompleto,Não,Não,Conservador
+21826,8704,f,3,Pós graduado,Não,Não,Agressivo
+8389,4485,m,2,Superior Completo,Não,Não,Conservador
+10832,9786,m,2,Pós graduado,Não,Não,Moderado
+24343,9563,f,0,Superior Completo,SIM,SIM,Agressivo
+8749,2873,f,3,Médio Completo,SIM,Não,Conservador
+15230,5679,n,1,Pós graduado,Não,Não,Agressivo
+23578,22652,n,1,Superior Completo,Não,Não,Não Investidor
+22319,9732,n,2,Superior Completo,Não,SIM,Agressivo
+15059,12896,n,2,Superior Completo,Não,Não,Moderado
+2633,1736,m,3,Médio Incompleto,SIM,SIM,Não Investidor
+6395,4469,m,5,Pós graduado,Não,Não,Conservador
+2688,1404,f,4,Superior Completo,Não,Não,Conservador
+6566,4216,n,4,Superior Completo,Não,Não,Conservador
+1105,876,f,3,Médio Completo,Não,SIM,Conservador
+1115,1071,m,3,Médio Incompleto,Não,SIM,Não Investidor
+19062,7377,f,1,Pós graduado,SIM,Não,Agressivo
+8365,3922,f,4,Superior Completo,SIM,SIM,Conservador
+16890,13359,m,2,Superior Incompleto,Não,SIM,Moderado
+7565,3515,m,4,Pós graduado,SIM,Não,Conservador
+2640,1087,m,2,Superior Incompleto,Não,Não,Não Investidor
+7348,6316,m,3,Pós graduado,SIM,Não,Conservador
+8133,6610,f,1,Pós graduado,SIM,SIM,Moderado
+2819,1114,f,2,Médio Completo,SIM,Não,Não Investidor
+15612,7812,m,1,Superior Completo,SIM,Não,Agressivo
+16016,7376,f,2,Pós graduado,SIM,SIM,Moderado
+1332,1250,m,3,Superior Incompleto,SIM,Não,Não Investidor
+23180,23079,f,3,Fundamental Incompleto,SIM,Não,Não Investidor
+3328,1048,m,4,Médio Incompleto,Não,SIM,Não Investidor
+2148,1187,m,2,Médio Incompleto,Não,SIM,Não Investidor
+1484,961,m,5,Superior Completo,SIM,SIM,Conservador
+1709,1397,m,3,Médio Completo,SIM,SIM,Não Investidor
+10308,9251,f,2,Superior Completo,SIM,SIM,Moderado
+9198,6571,m,2,Superior Incompleto,SIM,SIM,Moderado
+15988,8797,f,0,Superior Completo,Não,SIM,Agressivo
+3435,2953,m,4,Fundamental Completo,Não,SIM,Não Investidor
+10400,6170,m,1,Pós graduado,SIM,Não,Moderado
+2971,2792,f,3,Pós graduado,SIM,Não,Conservador
+1560,958,m,5,Pós graduado,Não,SIM,Conservador
+1108,966,m,4,Pós graduado,Não,SIM,Conservador
+7743,5814,m,4,Superior Incompleto,SIM,Não,Conservador
+3318,1193,m,3,Médio Completo,SIM,SIM,Não Investidor
+6447,1924,f,1,Fundamental Incompleto,SIM,Não,Conservador
+15854,11969,f,2,Superior Incompleto,SIM,SIM,Moderado
+3224,1429,m,4,Médio Incompleto,Não,SIM,Não Investidor
+14155,11242,m,2,Superior Completo,SIM,SIM,Moderado
+9955,6810,m,2,Pós graduado,Não,Não,Conservador
+14755,9105,m,2,Superior Incompleto,SIM,SIM,Moderado
+2607,2340,f,3,Médio Incompleto,Não,SIM,Não Investidor
+9617,1594,m,2,Médio Completo,Não,Não,Conservador
+4241,3428,m,4,Médio Incompleto,SIM,Não,Não Investidor
+1945,1554,f,4,Médio Completo,Não,SIM,Não Investidor
+3064,1623,n,2,Fundamental Completo,Não,Não,Não Investidor
+22061,6415,f,5,Pós graduado,SIM,SIM,Agressivo
+4473,2590,f,2,Fundamental Completo,Não,SIM,Não Investidor
+15562,14478,n,1,Superior Incompleto,SIM,SIM,Moderado
+16303,6381,m,1,Superior Completo,Não,Não,Agressivo
+20437,9493,m,0,Superior Completo,Não,Não,Agressivo
+16207,2838,f,3,Médio Incompleto,SIM,Não,Moderado
+8263,7335,m,1,Superior Completo,SIM,SIM,Moderado
+20781,8962,n,3,Pós graduado,Não,Não,Agressivo
+6048,2251,m,3,Superior Completo,Não,SIM,Conservador
+2826,2513,n,5,Médio Incompleto,Não,SIM,Não Investidor
+12938,10939,f,2,Pós graduado,Não,SIM,Moderado
+11965,5334,m,1,Superior Incompleto,Não,SIM,Moderado
+15429,14710,f,1,Superior Incompleto,SIM,SIM,Moderado
+22396,9244,m,3,Superior Completo,Não,SIM,Agressivo
+24209,24012,n,3,Médio Completo,SIM,Não,Moderado
+14456,13998,n,1,Pós graduado,SIM,Não,Moderado
+12848,5752,m,1,Pós graduado,SIM,Não,Moderado
+9577,8181,m,3,Superior Incompleto,SIM,SIM,Conservador
+8389,6828,f,1,Superior Incompleto,SIM,Não,Moderado
+14639,10293,m,2,Superior Incompleto,SIM,Não,Moderado
+3855,2612,f,3,Fundamental Completo,SIM,SIM,Não Investidor
+9736,2753,f,3,Pós graduado,Não,Não,Não Investidor
+12554,2293,f,1,Superior Incompleto,Não,SIM,Agressivo
+12187,7246,n,2,Pós graduado,SIM,Não,Moderado
+20338,6852,f,0,Pós graduado,Não,Não,Agressivo
+3872,2976,m,4,Médio Incompleto,Não,SIM,Não Investidor
+1343,1231,m,4,Médio Completo,Não,SIM,Conservador
+3049,1546,n,3,Fundamental Incompleto,Não,Não,Não Investidor
+8220,5359,f,1,Superior Completo,SIM,Não,Moderado
+22142,5424,m,1,Pós graduado,SIM,Não,Agressivo
+11520,7063,m,1,Superior Incompleto,SIM,SIM,Moderado
+2403,1410,m,5,Médio Completo,SIM,Não,Não Investidor
+6574,5750,m,2,Superior Incompleto,SIM,SIM,Conservador
+24087,5094,f,0,Pós graduado,Não,SIM,Agressivo
+11329,9667,f,1,Superior Incompleto,SIM,SIM,Moderado
+9597,9008,m,1,Superior Incompleto,SIM,SIM,Moderado
+9717,2323,m,5,Superior Incompleto,Não,SIM,Conservador
+16834,13065,m,2,Superior Incompleto,SIM,Não,Moderado
+2491,1104,m,3,Fundamental Incompleto,Não,Não,Não Investidor
+15920,13764,m,1,Superior Incompleto,Não,SIM,Moderado
+22237,6497,m,2,Superior Completo,SIM,Não,Agressivo
+1427,1338,m,5,Pós graduado,SIM,SIM,Conservador
+17075,7756,m,1,Superior Completo,SIM,Não,Agressivo
+2849,1001,m,4,Superior Incompleto,SIM,Não,Conservador
+7910,2471,f,2,Pós graduado,SIM,SIM,Conservador
+19200,5484,f,0,Pós graduado,SIM,SIM,Agressivo
+9414,8730,m,1,Superior Incompleto,Não,Não,Moderado
+2571,1963,f,5,Médio Completo,Não,Não,Não Investidor
+12492,11731,m,1,Superior Incompleto,Não,SIM,Moderado
+1571,903,m,3,Médio Completo,SIM,Não,Conservador
+20326,7538,f,1,Superior Completo,SIM,Não,Agressivo
+20798,8727,m,0,Pós graduado,SIM,SIM,Agressivo
+4944,1622,f,4,Superior Incompleto,SIM,SIM,Não Investidor
+4286,3276,m,2,Superior Incompleto,Não,Não,Não Investidor
+15015,6367,f,2,Superior Completo,SIM,Não,Agressivo
+4035,2279,m,2,Superior Incompleto,SIM,Não,Não Investidor
+4021,1738,n,2,Pós graduado,Não,Não,Conservador
+14086,5825,m,1,Superior Completo,Não,SIM,Moderado
+15971,14500,m,2,Superior Completo,SIM,SIM,Moderado
+15382,8102,f,1,Pós graduado,SIM,SIM,Agressivo
+4880,3463,m,4,Fundamental Incompleto,Não,Não,Não Investidor
+2150,1244,m,5,Médio Incompleto,Não,SIM,Não Investidor
+19064,8249,f,0,Pós graduado,SIM,Não,Agressivo
+3839,2922,f,5,Pós graduado,Não,SIM,Conservador
+5682,1773,f,2,Pós graduado,Não,SIM,Conservador
+12457,10287,f,1,Pós graduado,SIM,Não,Moderado
+14877,7150,m,1,Pós graduado,Não,SIM,Moderado
+3750,1427,n,3,Médio Completo,SIM,Não,Não Investidor
+3581,1991,m,2,Fundamental Incompleto,Não,SIM,Não Investidor
+9877,3399,m,2,Médio Completo,Não,Não,Conservador
+3820,2600,f,5,Superior Incompleto,Não,Não,Não Investidor
+1246,1095,m,3,Superior Completo,SIM,Não,Conservador
+7208,6090,m,3,Superior Incompleto,Não,Não,Conservador
+4988,1314,m,5,Médio Incompleto,Não,SIM,Não Investidor
+3392,1112,f,3,Médio Incompleto,Não,SIM,Não Investidor
+21281,5857,m,1,Pós graduado,SIM,Não,Agressivo
+16770,9584,m,0,Superior Completo,SIM,Não,Agressivo
+23005,9279,m,1,Pós graduado,Não,Não,Agressivo
+4690,1877,f,4,Superior Completo,Não,Não,Conservador
+2124,1957,f,3,Médio Completo,SIM,SIM,Não Investidor
+20566,8479,m,0,Superior Completo,SIM,SIM,Agressivo
+8699,1318,f,3,Superior Incompleto,Não,Não,Conservador
+1102,1045,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+24266,9740,n,1,Pós graduado,Não,Não,Agressivo
+4028,1819,f,5,Médio Incompleto,SIM,SIM,Não Investidor
+12065,11406,m,2,Superior Incompleto,Não,Não,Moderado
+2318,2124,f,5,Médio Incompleto,SIM,Não,Não Investidor
+4665,3554,n,3,Médio Completo,SIM,Não,Conservador
+2883,1628,m,5,Médio Completo,SIM,SIM,Não Investidor
+18217,5966,n,2,Superior Completo,Não,SIM,Agressivo
+9910,6846,f,1,Superior Completo,SIM,SIM,Moderado
+1958,1030,m,3,Médio Incompleto,SIM,SIM,Não Investidor
+15240,13233,m,1,Superior Completo,SIM,SIM,Moderado
+20585,8987,m,2,Superior Completo,SIM,Não,Agressivo
+6175,4046,n,2,Superior Incompleto,Não,SIM,Conservador
+10600,9889,m,2,Superior Incompleto,SIM,Não,Moderado
+16096,5461,f,3,Superior Completo,SIM,SIM,Agressivo
+2959,2158,f,5,Superior Completo,SIM,Não,Conservador
+1458,1062,m,3,Fundamental Completo,Não,SIM,Não Investidor
+16993,9830,f,0,Superior Completo,Não,SIM,Agressivo
+4808,2315,f,1,Fundamental Completo,SIM,SIM,Conservador
+3757,1152,m,3,Fundamental Incompleto,SIM,SIM,Não Investidor
+15975,5052,f,1,Superior Completo,SIM,Não,Moderado
+1285,880,m,3,Superior Completo,SIM,SIM,Conservador
+13560,7880,m,1,Superior Completo,SIM,Não,Moderado
+4441,4355,m,5,Médio Completo,Não,Não,Não Investidor
+11416,9242,m,1,Superior Incompleto,SIM,SIM,Moderado
+4655,1386,m,3,Médio Completo,Não,SIM,Não Investidor
+17543,15584,f,5,Fundamental Completo,Não,Não,Agressivo
+18669,9136,f,1,Superior Completo,SIM,Não,Agressivo
+2468,2299,m,5,Superior Incompleto,SIM,SIM,Conservador
+22742,6534,n,2,Pós graduado,SIM,Não,Agressivo
+1102,1070,m,5,Fundamental Incompleto,Não,SIM,Não Investidor
+23427,9122,f,1,Superior Completo,SIM,SIM,Agressivo
+13489,5896,m,2,Superior Incompleto,Não,SIM,Moderado
+19382,8928,f,2,Pós graduado,SIM,Não,Agressivo
+22638,15646,m,4,Pós graduado,Não,SIM,Conservador
+2105,1402,f,5,Médio Incompleto,SIM,Não,Não Investidor
+15714,14929,m,1,Superior Completo,Não,SIM,Moderado
+4959,2389,f,2,Superior Incompleto,SIM,Não,Não Investidor
+22480,9875,m,2,Superior Completo,Não,SIM,Agressivo
+10446,9741,m,2,Superior Completo,Não,SIM,Moderado
+2873,1354,m,2,Médio Completo,Não,Não,Não Investidor
+3265,2985,f,2,Médio Incompleto,Não,Não,Não Investidor
+19875,7711,f,0,Pós graduado,SIM,SIM,Agressivo
+5482,3003,f,2,Pós graduado,Não,SIM,Conservador
+12218,8051,m,1,Superior Completo,Não,SIM,Moderado
+19853,9161,m,0,Pós graduado,SIM,Não,Agressivo
+9595,3557,f,2,Fundamental Incompleto,SIM,SIM,Agressivo
+2372,2310,m,2,Pós graduado,SIM,Não,Conservador
+4235,1003,f,5,Superior Incompleto,Não,Não,Não Investidor
+10090,8129,f,2,Superior Incompleto,Não,Não,Moderado
+15268,7386,m,1,Superior Incompleto,Não,Não,Moderado
+1183,1029,f,5,Médio Completo,Não,SIM,Não Investidor
+19850,16922,m,2,Fundamental Completo,Não,Não,Agressivo
+8310,7200,f,2,Superior Incompleto,SIM,SIM,Moderado
+24095,7779,f,1,Pós graduado,SIM,Não,Agressivo
+21204,7151,f,2,Superior Completo,SIM,Não,Agressivo
+20104,5328,m,0,Pós graduado,SIM,Não,Agressivo
+21122,9045,f,2,Superior Completo,Não,SIM,Agressivo
+3529,1295,f,2,Médio Completo,Não,Não,Conservador
+5779,1787,f,2,Superior Incompleto,Não,SIM,Conservador
+8099,5417,m,1,Pós graduado,Não,SIM,Moderado
+4388,2458,m,3,Superior Completo,Não,SIM,Conservador
+4940,4786,f,4,Fundamental Completo,SIM,SIM,Não Investidor
+2324,1726,m,4,Médio Incompleto,Não,SIM,Não Investidor
+3969,3111,m,4,Fundamental Incompleto,Não,Não,Não Investidor
+21204,12672,m,2,Médio Incompleto,SIM,Não,Agressivo
+13727,9496,m,2,Superior Incompleto,SIM,SIM,Moderado
+9087,8660,n,2,Superior Incompleto,SIM,SIM,Moderado
+9978,9292,m,1,Superior Incompleto,SIM,Não,Moderado
+8650,6561,m,2,Superior Incompleto,Não,Não,Moderado
+2303,1063,m,5,Médio Completo,Não,SIM,Não Investidor
+9680,7400,f,2,Superior Completo,Não,Não,Moderado
+15496,10864,f,2,Superior Completo,Não,SIM,Moderado
+4981,1578,n,5,Pós graduado,SIM,Não,Conservador
+18269,5476,f,3,Superior Completo,SIM,SIM,Agressivo
+13529,6894,m,1,Pós graduado,Não,SIM,Agressivo
+16121,5980,f,1,Pós graduado,SIM,Não,Agressivo
+9650,8123,f,1,Superior Completo,SIM,SIM,Moderado
+23990,10667,m,1,Pós graduado,SIM,SIM,Agressivo
+8463,2509,f,5,Médio Completo,Não,Não,Conservador
+4591,1574,m,5,Fundamental Incompleto,SIM,Não,Não Investidor
+9736,6104,n,5,Pós graduado,SIM,SIM,Conservador
+15295,7714,f,2,Pós graduado,SIM,Não,Moderado
+4146,3005,f,5,Fundamental Completo,SIM,Não,Não Investidor
+5278,4058,n,4,Superior Completo,SIM,Não,Conservador
+11741,11601,m,2,Superior Completo,Não,Não,Moderado
+23288,8223,n,3,Pós graduado,SIM,SIM,Agressivo
+22889,6638,m,3,Superior Completo,Não,SIM,Agressivo
+2518,1250,f,5,Médio Completo,SIM,Não,Não Investidor
+4509,3954,m,4,Médio Completo,Não,Não,Não Investidor
+14336,8559,f,1,Pós graduado,Não,SIM,Moderado
+1919,1677,n,4,Superior Completo,Não,Não,Conservador
+8329,4961,f,5,Superior Completo,SIM,SIM,Não Investidor
+22670,8951,n,0,Superior Incompleto,Não,Não,Não Investidor
+2405,1315,f,2,Médio Completo,Não,SIM,Não Investidor
+24208,4161,m,0,Médio Incompleto,SIM,SIM,Moderado
+13784,12287,m,2,Superior Incompleto,SIM,Não,Moderado
+1261,1131,m,2,Fundamental Completo,Não,Não,Não Investidor
+5530,5340,n,2,Médio Completo,Não,Não,Conservador
+2210,1307,m,3,Fundamental Incompleto,Não,SIM,Não Investidor
+3542,1541,m,2,Pós graduado,SIM,SIM,Conservador
+13455,6178,f,2,Superior Completo,SIM,SIM,Moderado
+9680,6801,m,2,Pós graduado,Não,SIM,Moderado
+15847,14030,m,1,Superior Incompleto,Não,SIM,Moderado
+4573,2548,f,5,Fundamental Incompleto,SIM,Não,Não Investidor
+2610,2527,f,3,Superior Incompleto,SIM,SIM,Conservador
+3109,1127,m,5,Pós graduado,Não,SIM,Conservador
+8836,6294,f,3,Superior Incompleto,Não,SIM,Conservador
+14858,6461,m,2,Superior Incompleto,Não,SIM,Moderado
+4972,3589,n,3,Superior Incompleto,Não,Não,Não Investidor
+10455,6678,m,2,Superior Completo,SIM,SIM,Moderado
+3961,1435,f,5,Fundamental Incompleto,Não,Não,Não Investidor
+2626,1389,n,2,Superior Incompleto,Não,SIM,Não Investidor
+1296,1284,m,3,Médio Incompleto,SIM,Não,Não Investidor
+16399,5525,f,1,Superior Completo,Não,SIM,Moderado
+17428,6301,f,2,Superior Completo,SIM,SIM,Agressivo
+3891,1849,f,5,Médio Completo,Não,Não,Não Investidor
+14156,13256,m,4,Superior Completo,SIM,SIM,Agressivo
+3040,2525,n,4,Médio Incompleto,SIM,Não,Não Investidor
+1633,1578,n,5,Fundamental Completo,Não,SIM,Não Investidor
+15973,13990,n,2,Superior Completo,SIM,SIM,Moderado
+2052,1090,m,5,Fundamental Completo,SIM,SIM,Não Investidor
+9629,1748,m,5,Médio Completo,SIM,SIM,Conservador
+2429,2362,m,2,Superior Incompleto,SIM,Não,Não Investidor
+1074,1059,n,3,Fundamental Incompleto,SIM,SIM,Não Investidor
+5105,2873,m,2,Superior Incompleto,Não,Não,Conservador
+11007,5454,f,1,Superior Completo,Não,SIM,Moderado
+20360,6881,m,0,Pós graduado,Não,SIM,Agressivo
+9577,5920,f,2,Superior Incompleto,Não,SIM,Moderado
+2065,1297,n,5,Médio Completo,Não,Não,Não Investidor
+2713,2246,m,4,Superior Incompleto,SIM,SIM,Não Investidor
+24846,5517,f,2,Pós graduado,Não,Não,Agressivo
+2789,2084,f,2,Superior Incompleto,SIM,SIM,Não Investidor
+19564,5543,m,3,Pós graduado,SIM,SIM,Agressivo
+5635,2285,f,3,Fundamental Completo,SIM,Não,Não Investidor
+9649,4222,m,3,Pós graduado,SIM,SIM,Conservador
+8361,6931,m,1,Superior Incompleto,SIM,SIM,Moderado
+9404,5252,m,4,Médio Completo,SIM,SIM,Conservador
+9587,8692,f,1,Superior Completo,Não,Não,Moderado
+10107,10076,n,2,Pós graduado,SIM,Não,Moderado
+5098,3462,n,4,Superior Incompleto,Não,Não,Conservador
+2628,1905,m,3,Superior Incompleto,SIM,SIM,Conservador
+1539,1460,m,2,Fundamental Completo,Não,Não,Não Investidor
+19604,9707,m,2,Superior Completo,Não,Não,Agressivo
+4585,2914,m,2,Médio Completo,Não,SIM,Não Investidor
+12594,5019,m,1,Pós graduado,Não,SIM,Moderado
+21110,8104,f,0,Superior Completo,SIM,SIM,Agressivo
+4515,2666,m,4,Médio Completo,Não,SIM,Conservador
+8358,6484,m,3,Médio Completo,SIM,SIM,Conservador
+22470,9814,n,3,Pós graduado,Não,SIM,Agressivo
+2175,1239,m,3,Médio Incompleto,Não,Não,Não Investidor
+1924,1092,m,2,Superior Completo,Não,Não,Conservador
+18528,6664,f,3,Pós graduado,Não,Não,Agressivo
+3823,2016,m,5,Fundamental Incompleto,SIM,Não,Não Investidor
+1062,1005,m,2,Médio Completo,SIM,SIM,Não Investidor
+9701,7185,f,1,Pós graduado,Não,SIM,Moderado
+9743,7008,m,1,Superior Incompleto,Não,Não,Moderado
+3757,3434,m,4,Médio Completo,SIM,SIM,Não Investidor
+1940,1491,m,5,Superior Incompleto,SIM,Não,Não Investidor
+1697,1596,f,2,Fundamental Completo,Não,SIM,Não Investidor
+23537,5007,m,3,Superior Completo,SIM,SIM,Agressivo
+3917,3386,m,3,Fundamental Incompleto,Não,Não,Não Investidor
+19197,7688,m,0,Superior Completo,SIM,SIM,Agressivo
+2242,1372,m,5,Fundamental Completo,Não,Não,Não Investidor
+14937,8554,m,1,Superior Incompleto,Não,SIM,Moderado
+5580,3223,m,2,Superior Incompleto,SIM,Não,Conservador
+13920,10066,f,1,Pós graduado,Não,Não,Moderado
+2055,1345,f,5,Superior Incompleto,Não,SIM,Não Investidor
+4995,1739,m,2,Médio Completo,Não,SIM,Não Investidor
+11499,11483,f,1,Superior Completo,Não,Não,Moderado
+15341,10989,f,1,Pós graduado,SIM,SIM,Moderado
+15119,7783,f,2,Superior Completo,SIM,SIM,Moderado
+3398,3268,m,4,Médio Completo,Não,SIM,Conservador
+2103,1776,m,4,Médio Completo,Não,SIM,Não Investidor
+12026,8559,n,1,Superior Incompleto,Não,Não,Moderado
+22940,9959,m,1,Pós graduado,SIM,SIM,Agressivo
+15634,5028,f,2,Superior Incompleto,SIM,SIM,Moderado
+15028,9476,f,2,Superior Completo,SIM,Não,Moderado
+11706,9007,m,1,Pós graduado,SIM,SIM,Moderado
+16718,5966,m,1,Superior Incompleto,SIM,Não,Moderado
+11803,10662,m,1,Superior Completo,SIM,SIM,Moderado
+12229,6595,m,2,Pós graduado,Não,Não,Moderado
+1747,1506,m,5,Superior Incompleto,Não,Não,Não Investidor
+15021,9013,f,1,Pós graduado,SIM,Não,Agressivo
+17985,6795,n,2,Pós graduado,Não,Não,Agressivo
+11724,7669,m,2,Pós graduado,Não,Não,Moderado
+1518,1317,f,2,Superior Incompleto,Não,Não,Não Investidor
+17264,7979,f,2,Pós graduado,SIM,Não,Agressivo
+8847,7234,m,1,Pós graduado,SIM,Não,Moderado
+4237,3393,n,2,Superior Incompleto,SIM,Não,Não Investidor
+13601,11386,f,2,Superior Incompleto,Não,Não,Moderado
+1095,1046,n,5,Superior Incompleto,Não,Não,Conservador
+9338,9210,m,1,Superior Completo,Não,SIM,Moderado
+21892,21621,m,5,Médio Completo,SIM,Não,Conservador
+12100,10504,m,1,Pós graduado,SIM,SIM,Moderado
+4453,3395,m,4,Médio Completo,SIM,SIM,Não Investidor
+7322,6500,m,5,Médio Completo,SIM,Não,Conservador
+15578,13444,f,1,Pós graduado,Não,Não,Moderado
+2923,2104,m,3,Médio Incompleto,SIM,Não,Não Investidor
+8780,5331,m,1,Superior Incompleto,SIM,SIM,Moderado
+14429,13446,f,1,Pós graduado,SIM,SIM,Moderado
+2016,1586,m,5,Fundamental Incompleto,SIM,SIM,Não Investidor
+10345,9827,f,2,Superior Completo,Não,Não,Moderado
+11053,8106,n,2,Superior Incompleto,SIM,SIM,Moderado
+3436,2036,n,4,Superior Incompleto,SIM,Não,Não Investidor
+24451,8484,f,0,Superior Completo,SIM,Não,Agressivo
+15629,8640,f,1,Pós graduado,Não,Não,Moderado
+3749,1464,f,3,Superior Incompleto,Não,Não,Não Investidor
+3607,3373,n,5,Fundamental Incompleto,SIM,SIM,Não Investidor
+15396,9762,m,2,Superior Completo,SIM,Não,Agressivo
+24829,6500,f,1,Pós graduado,Não,SIM,Agressivo
+8280,2798,n,3,Médio Completo,Não,Não,Conservador
+2649,2229,m,5,Fundamental Completo,SIM,SIM,Não Investidor
+1452,1231,n,2,Superior Incompleto,SIM,SIM,Conservador
+10430,5445,f,2,Superior Incompleto,SIM,SIM,Moderado
+3827,1273,m,2,Fundamental Incompleto,Não,Não,Não Investidor
+1107,1079,f,5,Superior Completo,Não,SIM,Conservador
+2932,2765,f,2,Médio Incompleto,SIM,Não,Não Investidor
+5310,5239,f,3,Superior Incompleto,Não,Não,Conservador
+10943,7328,m,2,Superior Incompleto,SIM,Não,Moderado
+14601,8156,f,2,Superior Completo,SIM,SIM,Moderado
+2701,2689,m,3,Médio Completo,Não,Não,Não Investidor
+8315,6735,f,1,Pós graduado,Não,Não,Moderado
+4902,2724,f,4,Médio Completo,Não,Não,Não Investidor
+16612,7935,f,1,Pós graduado,Não,SIM,Agressivo
+4921,3643,f,2,Superior Completo,SIM,SIM,Conservador
+19818,7373,f,1,Pós graduado,SIM,SIM,Agressivo
+17142,6005,f,2,Superior Completo,Não,SIM,Agressivo
+4809,3780,f,4,Superior Completo,SIM,Não,Conservador
+16051,6545,m,2,Superior Completo,SIM,SIM,Agressivo
+9102,7238,f,4,Médio Completo,SIM,SIM,Conservador
+2836,1312,m,3,Médio Incompleto,Não,Não,Não Investidor
+22274,8770,f,3,Pós graduado,Não,Não,Agressivo
+11198,6918,f,1,Superior Incompleto,Não,Não,Moderado
+16034,8112,m,3,Pós graduado,SIM,SIM,Agressivo
+6004,5787,n,3,Médio Completo,SIM,SIM,Conservador
+1822,1207,m,3,Superior Incompleto,SIM,Não,Não Investidor
+9736,1258,m,3,Pós graduado,SIM,Não,Conservador
+24889,8132,n,3,Superior Completo,Não,SIM,Agressivo
+4099,2603,m,2,Superior Incompleto,SIM,SIM,Conservador
+4320,3916,f,3,Médio Incompleto,SIM,Não,Não Investidor
+10306,9417,n,2,Superior Completo,Não,Não,Moderado
+19860,7420,m,0,Superior Completo,Não,Não,Agressivo
+3700,822,m,4,Superior Incompleto,SIM,SIM,Conservador
+6686,6562,m,4,Pós graduado,SIM,Não,Conservador
+7579,2933,m,2,Superior Completo,Não,SIM,Conservador
+3815,1906,f,5,Médio Incompleto,Não,Não,Não Investidor
+4658,4175,f,3,Médio Completo,Não,Não,Não Investidor
+2686,2045,m,2,Superior Incompleto,Não,SIM,Não Investidor
+4984,1906,f,3,Médio Completo,Não,Não,Não Investidor
+20057,7937,n,0,Superior Completo,Não,SIM,Agressivo
+3153,1203,f,4,Superior Incompleto,Não,Não,Não Investidor
+20253,1339,f,1,Médio Completo,SIM,Não,Não Investidor
+8265,7051,f,1,Superior Completo,Não,Não,Moderado
+18508,6840,m,0,Pós graduado,SIM,Não,Agressivo
+4839,4202,m,3,Fundamental Incompleto,Não,SIM,Não Investidor
+13306,6389,m,1,Superior Incompleto,Não,SIM,Moderado
+4430,3408,f,5,Médio Completo,Não,SIM,Não Investidor
+15924,11063,m,2,Superior Incompleto,Não,Não,Moderado
+3678,1724,f,2,Médio Completo,SIM,SIM,Conservador
+14585,12539,m,1,Pós graduado,Não,Não,Moderado
+4130,3169,f,2,Superior Incompleto,Não,SIM,Não Investidor
+15977,5266,f,2,Superior Completo,Não,Não,Moderado
+5863,4631,m,4,Superior Incompleto,Não,Não,Conservador
+9950,1358,n,5,Médio Completo,SIM,SIM,Conservador
+3556,1631,m,2,Superior Incompleto,Não,SIM,Conservador
+19202,9418,m,2,Pós graduado,Não,Não,Agressivo
+19793,8919,f,3,Pós graduado,SIM,Não,Agressivo
+3280,1340,f,5,Fundamental Completo,SIM,SIM,Não Investidor
+3097,1340,f,3,Médio Incompleto,Não,Não,Não Investidor
+10326,8499,m,1,Superior Completo,SIM,Não,Moderado
+5159,4226,f,4,Pós graduado,SIM,Não,Conservador
+4849,1076,m,3,Pós graduado,SIM,Não,Conservador
+1514,1132,m,2,Médio Completo,SIM,SIM,Não Investidor
+16446,9225,m,1,Pós graduado,Não,Não,Agressivo
+4906,2394,f,5,Superior Incompleto,SIM,Não,Conservador
+4229,3678,m,5,Pós graduado,Não,SIM,Conservador
+13266,3649,m,2,Superior Incompleto,SIM,SIM,Conservador
+7477,2134,f,2,Pós graduado,Não,Não,Conservador
+23963,6721,f,3,Superior Completo,SIM,SIM,Agressivo
+3863,1201,n,2,Superior Completo,SIM,SIM,Conservador
+4564,2425,m,2,Médio Completo,SIM,SIM,Não Investidor
+9662,7424,m,2,Pós graduado,SIM,SIM,Moderado
+4989,3028,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+9536,9347,f,4,Pós graduado,Não,Não,Conservador
+1653,1135,f,3,Médio Incompleto,SIM,SIM,Não Investidor
+7052,1401,m,3,Médio Completo,SIM,Não,Conservador
+19757,13139,m,2,Médio Completo,SIM,Não,Agressivo
+2687,1426,m,4,Médio Completo,SIM,Não,Não Investidor
+23543,5131,n,3,Superior Completo,SIM,SIM,Agressivo
+16483,6882,m,1,Superior Completo,SIM,Não,Moderado
+11519,7372,f,2,Pós graduado,SIM,SIM,Moderado
+15788,11786,f,1,Superior Completo,Não,Não,Moderado
+19237,8746,m,3,Pós graduado,Não,SIM,Agressivo
+5959,2878,m,3,Superior Incompleto,Não,Não,Conservador
+13323,12352,m,1,Superior Incompleto,SIM,SIM,Moderado
+17243,7352,m,2,Fundamental Incompleto,SIM,SIM,Conservador
+19144,6936,m,2,Superior Completo,Não,Não,Agressivo
+18269,8003,m,1,Superior Completo,Não,SIM,Agressivo
+2671,1207,f,4,Fundamental Completo,SIM,SIM,Não Investidor
+5321,2951,m,1,Superior Incompleto,SIM,Não,Moderado
+9971,7247,f,2,Pós graduado,Não,Não,Moderado
+1645,1415,m,4,Superior Completo,SIM,Não,Conservador
+4247,2187,m,3,Médio Completo,SIM,Não,Não Investidor
+4408,3376,m,5,Superior Completo,SIM,SIM,Conservador
+4422,3293,m,5,Superior Incompleto,SIM,SIM,Conservador
+22769,9674,f,3,Pós graduado,Não,SIM,Agressivo
+16690,6480,f,2,Superior Completo,SIM,SIM,Agressivo
+12668,5934,m,1,Superior Incompleto,SIM,SIM,Moderado
+12812,9205,f,2,Superior Completo,Não,SIM,Moderado
+2300,1120,f,3,Médio Completo,SIM,Não,Conservador
+2326,2216,f,4,Fundamental Incompleto,SIM,Não,Não Investidor
+2762,1309,f,5,Fundamental Completo,Não,Não,Não Investidor
+4611,1381,n,2,Superior Completo,SIM,Não,Conservador
+14086,8882,m,2,Superior Incompleto,Não,SIM,Moderado
+13930,11795,f,2,Superior Completo,SIM,Não,Moderado
+1103,1013,m,4,Médio Completo,Não,SIM,Não Investidor
+1503,1102,m,4,Superior Incompleto,SIM,SIM,Conservador
+16229,10098,m,1,Superior Completo,SIM,SIM,Moderado
+10521,9239,f,2,Superior Completo,SIM,SIM,Moderado
+16714,6383,m,1,Superior Completo,SIM,Não,Agressivo
+23588,5103,m,2,Superior Completo,SIM,SIM,Agressivo
+2603,2131,m,2,Superior Incompleto,SIM,Não,Não Investidor
+4296,3205,f,3,Superior Incompleto,SIM,Não,Não Investidor
+4371,3825,n,4,Superior Completo,SIM,SIM,Conservador
+18693,9679,f,2,Pós graduado,SIM,Não,Agressivo
+20047,8414,f,1,Pós graduado,SIM,Não,Agressivo
+16365,7934,m,1,Pós graduado,Não,SIM,Agressivo
+4896,2592,f,4,Superior Completo,Não,SIM,Conservador
+2897,2542,m,4,Médio Completo,Não,SIM,Não Investidor
+3977,3166,m,2,Médio Completo,SIM,SIM,Conservador
+24775,8306,n,0,Pós graduado,SIM,Não,Agressivo
+8960,4032,f,5,Pós graduado,SIM,SIM,Conservador
+19783,6640,m,1,Pós graduado,SIM,SIM,Agressivo
+1179,829,f,5,Superior Incompleto,Não,Não,Conservador
+2904,2226,m,3,Superior Incompleto,SIM,SIM,Não Investidor
+1952,1866,m,4,Superior Completo,Não,SIM,Conservador
+8583,8072,f,1,Pós graduado,Não,SIM,Moderado
+4459,2703,f,4,Superior Completo,SIM,SIM,Conservador
+1579,1348,n,3,Médio Completo,SIM,SIM,Não Investidor
+18486,8612,m,2,Pós graduado,Não,Não,Agressivo
+10928,6903,m,1,Superior Incompleto,SIM,SIM,Moderado
+20289,7174,f,0,Superior Completo,SIM,SIM,Agressivo
+24205,5713,m,1,Pós graduado,Não,Não,Agressivo
+8431,1931,m,2,Superior Completo,SIM,SIM,Conservador
+22600,2445,n,3,Superior Incompleto,SIM,Não,Agressivo
+1461,1267,f,2,Fundamental Incompleto,Não,SIM,Não Investidor
+11838,9532,n,2,Pós graduado,Não,SIM,Moderado
+12681,6398,m,1,Superior Completo,Não,SIM,Moderado
+24652,8027,f,3,Pós graduado,Não,SIM,Agressivo
+15818,6845,m,2,Pós graduado,SIM,Não,Moderado
+1923,1205,f,3,Superior Incompleto,SIM,Não,Não Investidor
+8658,5532,f,1,Superior Completo,Não,Não,Moderado
+2614,1250,m,2,Médio Completo,Não,Não,Não Investidor
+9730,6563,f,2,Pós graduado,Não,SIM,Conservador
+5336,2406,m,2,Superior Incompleto,SIM,SIM,Conservador
+4153,2062,m,5,Fundamental Incompleto,SIM,SIM,Não Investidor
+5091,1247,f,2,Médio Completo,SIM,SIM,Não Investidor
+20481,7044,f,2,Superior Completo,SIM,SIM,Agressivo
+11464,9255,n,2,Pós graduado,Não,SIM,Moderado
+16214,9854,m,2,Superior Completo,SIM,Não,Moderado
+8426,7342,f,5,Médio Completo,Não,SIM,Conservador
+20963,7438,m,0,Pós graduado,Não,SIM,Agressivo
+15292,9130,m,2,Pós graduado,Não,Não,Moderado
+24181,6283,m,0,Superior Completo,SIM,Não,Agressivo
+16251,10803,n,1,Superior Incompleto,SIM,Não,Moderado
+11946,5142,m,2,Pós graduado,Não,Não,Moderado
+21414,8796,m,1,Superior Completo,Não,Não,Agressivo
+8548,6623,m,2,Superior Incompleto,Não,Não,Conservador
+6556,5928,m,4,Médio Completo,Não,Não,Conservador
+3565,2351,m,2,Fundamental Incompleto,Não,Não,Não Investidor
+21942,13328,f,5,Superior Completo,Não,SIM,Conservador
+15715,7166,m,1,Superior Completo,SIM,SIM,Agressivo
+4377,1421,m,3,Médio Incompleto,SIM,Não,Não Investidor
+15425,8277,f,2,Pós graduado,Não,Não,Moderado
+16325,5459,m,2,Superior Completo,SIM,Não,Agressivo
+1365,1005,f,3,Superior Incompleto,Não,SIM,Conservador
+3061,2979,n,5,Superior Completo,SIM,SIM,Conservador
+22734,5591,m,2,Pós graduado,SIM,SIM,Agressivo
+12334,11358,m,2,Superior Incompleto,SIM,Não,Moderado
+6356,4168,f,5,Superior Completo,SIM,SIM,Conservador
+10987,5068,m,1,Superior Incompleto,SIM,Não,Moderado
+1209,1063,f,3,Superior Incompleto,SIM,SIM,Não Investidor
+1463,1137,f,4,Médio Completo,SIM,Não,Conservador
+1349,960,m,5,Superior Incompleto,SIM,Não,Conservador
+13093,6943,f,2,Pós graduado,Não,SIM,Moderado
+8542,5198,f,2,Superior Completo,SIM,Não,Moderado
+1590,1442,m,2,Médio Completo,Não,Não,Não Investidor
+2184,1425,f,5,Fundamental Completo,Não,SIM,Não Investidor
+18625,8576,f,0,Superior Completo,Não,SIM,Agressivo
+13784,7558,m,1,Superior Incompleto,Não,SIM,Moderado
+21719,5048,n,0,Superior Incompleto,SIM,Não,Moderado
+9277,3670,m,4,Pós graduado,SIM,Não,Conservador
+3595,2199,m,5,Fundamental Completo,Não,SIM,Não Investidor
+9405,7099,f,5,Superior Incompleto,Não,Não,Conservador
+4320,2648,f,5,Superior Incompleto,Não,Não,Não Investidor
+9711,1103,f,3,Superior Incompleto,SIM,Não,Conservador
+6358,3814,f,4,Médio Completo,Não,Não,Agressivo
+18570,5503,m,2,Superior Completo,Não,SIM,Agressivo
+3567,1614,f,5,Fundamental Incompleto,SIM,SIM,Não Investidor
+9058,7997,f,2,Pós graduado,SIM,SIM,Moderado
+8807,5409,f,2,Superior Completo,SIM,Não,Moderado
+13400,8713,m,1,Superior Incompleto,Não,Não,Moderado
+1085,1040,m,4,Médio Incompleto,Não,Não,Não Investidor
+14086,7583,m,2,Superior Completo,SIM,Não,Moderado
+6481,4155,f,4,Médio Completo,Não,Não,Conservador
+11741,9825,f,1,Superior Completo,Não,SIM,Moderado
+16355,7546,f,3,Pós graduado,Não,Não,Agressivo
+18774,5200,m,1,Superior Completo,Não,Não,Agressivo
+15377,7786,m,1,Pós graduado,SIM,Não,Moderado
+11627,9339,m,2,Superior Completo,Não,SIM,Moderado
+3639,2876,f,4,Médio Completo,Não,Não,Não Investidor
+12920,6270,f,2,Pós graduado,SIM,SIM,Moderado
+12368,10827,f,1,Pós graduado,SIM,SIM,Moderado
+4818,2981,m,4,Fundamental Incompleto,Não,SIM,Não Investidor
+16632,11818,n,2,Pós graduado,SIM,SIM,Moderado
+7354,5081,m,5,Superior Completo,SIM,Não,Conservador
+15786,13933,f,1,Superior Incompleto,SIM,Não,Moderado
+3267,2594,f,3,Médio Incompleto,Não,SIM,Não Investidor
+12849,10956,m,3,Médio Incompleto,Não,Não,Conservador
+3487,3377,m,3,Fundamental Incompleto,SIM,Não,Não Investidor
+7766,4532,f,3,Pós graduado,Não,SIM,Conservador
+16232,10032,f,1,Pós graduado,SIM,SIM,Moderado
+15337,8871,m,3,Pós graduado,SIM,SIM,Agressivo
+18178,8540,f,3,Pós graduado,Não,Não,Agressivo
+21520,3143,f,2,Pós graduado,Não,SIM,Agressivo
+4868,1955,m,4,Superior Incompleto,Não,Não,Não Investidor
+8360,7433,m,2,Superior Incompleto,SIM,Não,Moderado
+4901,4030,m,5,Médio Completo,Não,SIM,Não Investidor
+6330,6106,f,4,Médio Completo,SIM,SIM,Conservador
+4914,3401,f,4,Médio Incompleto,Não,SIM,Não Investidor
+3642,2715,f,2,Superior Incompleto,SIM,SIM,Não Investidor
+21927,6600,n,2,Pós graduado,SIM,SIM,Agressivo
+1733,1391,m,5,Médio Completo,SIM,Não,Não Investidor
+11424,5591,n,1,Superior Completo,Não,Não,Moderado
+1526,849,m,2,Superior Completo,SIM,Não,Conservador
+24834,18448,m,4,Superior Completo,SIM,SIM,Conservador
+4989,3402,f,3,Médio Incompleto,SIM,Não,Não Investidor
+2736,2519,m,4,Médio Completo,SIM,SIM,Não Investidor
+17037,5076,m,0,Superior Completo,SIM,SIM,Agressivo
+1727,862,m,2,Médio Completo,Não,Não,Conservador
+1937,1911,f,2,Médio Completo,Não,SIM,Conservador
+9845,5360,m,2,Superior Incompleto,Não,Não,Moderado
+2828,2218,m,3,Médio Incompleto,Não,Não,Não Investidor
+4097,2731,m,5,Fundamental Incompleto,Não,SIM,Não Investidor
+22797,7489,f,0,Pós graduado,Não,SIM,Agressivo
+19550,9319,m,2,Superior Completo,SIM,SIM,Agressivo
+22044,3858,m,5,Médio Incompleto,Não,Não,Não Investidor
+7109,4126,m,2,Médio Completo,Não,SIM,Conservador
+21103,6431,f,0,Superior Completo,Não,Não,Agressivo
+1773,1658,f,3,Fundamental Incompleto,Não,SIM,Não Investidor
+19300,8743,f,4,Superior Completo,SIM,Não,Agressivo
+9754,9294,m,1,Superior Incompleto,SIM,SIM,Moderado
+20325,9953,f,3,Superior Completo,Não,Não,Agressivo
+23976,9274,m,3,Pós graduado,Não,Não,Agressivo
+7068,1386,m,3,Superior Completo,Não,Não,Conservador
+2993,1175,m,3,Médio Completo,Não,SIM,Não Investidor
+24041,9239,m,2,Superior Completo,Não,SIM,Agressivo
+22245,7206,f,2,Superior Completo,SIM,Não,Agressivo
+19363,5389,m,3,Superior Completo,Não,SIM,Agressivo
+21233,5347,m,2,Superior Completo,SIM,SIM,Agressivo
+16209,6283,m,0,Superior Completo,Não,SIM,Agressivo
+14173,11912,m,2,Superior Completo,Não,SIM,Moderado
+5348,1542,m,5,Pós graduado,SIM,Não,Conservador
+3623,2151,f,3,Superior Incompleto,Não,SIM,Conservador
+2512,1056,f,3,Médio Completo,SIM,SIM,Conservador
+23898,5611,m,1,Superior Completo,SIM,Não,Agressivo
+19454,9968,m,1,Pós graduado,Não,SIM,Agressivo
+16914,6428,n,2,Superior Completo,Não,SIM,Agressivo
+8378,8334,m,2,Pós graduado,Não,SIM,Moderado
+16163,10175,m,1,Pós graduado,Não,SIM,Moderado
+19167,9090,f,2,Superior Completo,Não,Não,Agressivo
+18132,8361,f,1,Pós graduado,Não,Não,Agressivo
+15136,8406,n,2,Pós graduado,Não,Não,Agressivo
+5450,5087,m,2,Fundamental Completo,SIM,Não,Agressivo
+1273,1056,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+21620,8937,m,1,Pós graduado,Não,SIM,Agressivo
+10855,5403,m,2,Superior Completo,Não,Não,Moderado
+16791,9194,m,2,Pós graduado,SIM,Não,Agressivo
+9062,7127,m,5,Superior Incompleto,SIM,Não,Conservador
+22946,9709,m,2,Pós graduado,SIM,SIM,Agressivo
+4549,1972,m,3,Médio Completo,Não,Não,Conservador
+14925,11514,m,2,Pós graduado,Não,SIM,Agressivo
+14736,13282,m,2,Pós graduado,Não,SIM,Moderado
+11428,8906,m,2,Superior Completo,SIM,SIM,Moderado
+12308,5240,f,5,Fundamental Incompleto,SIM,Não,Moderado
+8414,3221,m,5,Médio Completo,Não,SIM,Conservador
+1053,983,f,3,Médio Completo,Não,SIM,Conservador
+23771,8745,f,1,Pós graduado,Não,Não,Agressivo
+6828,5593,f,2,Médio Completo,SIM,Não,Conservador
+1046,849,f,2,Pós graduado,SIM,Não,Conservador
+20112,5616,f,3,Superior Completo,Não,Não,Agressivo
+15185,7821,f,0,Superior Completo,Não,SIM,Agressivo
+3568,2980,f,2,Fundamental Incompleto,SIM,Não,Não Investidor
+7140,3321,m,3,Pós graduado,Não,Não,Conservador
+3127,1066,m,5,Pós graduado,SIM,SIM,Conservador
+1857,871,f,3,Pós graduado,Não,SIM,Conservador
+2691,2607,m,3,Fundamental Incompleto,SIM,SIM,Não Investidor
+9242,7584,m,4,Superior Completo,SIM,Não,Conservador
+9860,8631,m,1,Pós graduado,SIM,Não,Moderado
+21921,9307,f,2,Superior Completo,Não,SIM,Agressivo
+3418,2368,f,3,Fundamental Incompleto,Não,Não,Não Investidor
+3886,3283,f,3,Médio Completo,Não,Não,Não Investidor
+8184,2131,f,2,Superior Incompleto,SIM,SIM,Conservador
+6538,3605,m,4,Pós graduado,Não,Não,Conservador
+2597,1905,m,5,Médio Completo,SIM,SIM,Não Investidor
+23344,8381,m,1,Pós graduado,Não,Não,Agressivo
+8090,7393,m,1,Superior Incompleto,Não,Não,Moderado
+8915,8880,m,2,Superior Incompleto,Não,Não,Moderado
+23762,9066,f,3,Fundamental Completo,Não,Não,Não Investidor
+19672,6236,m,1,Superior Completo,SIM,Não,Agressivo
+15027,8902,m,2,Pós graduado,SIM,Não,Agressivo
+2894,1797,f,3,Médio Incompleto,SIM,Não,Não Investidor
+17406,8550,f,3,Pós graduado,Não,Não,Agressivo
+8356,7850,f,2,Pós graduado,SIM,Não,Moderado
+5883,4592,f,4,Médio Completo,SIM,Não,Conservador
+7255,1477,m,2,Pós graduado,Não,Não,Conservador
+23483,9634,n,3,Superior Completo,SIM,Não,Agressivo
+23998,5138,m,3,Pós graduado,Não,Não,Agressivo
+14993,9156,f,2,Pós graduado,Não,Não,Moderado
+4296,1717,f,2,Pós graduado,SIM,Não,Conservador
+17257,6796,f,0,Superior Completo,Não,SIM,Agressivo
+2925,2636,n,2,Pós graduado,Não,SIM,Conservador
+9608,6036,m,4,Superior Completo,Não,Não,Conservador
+4332,3152,m,5,Médio Completo,Não,SIM,Não Investidor
+14319,9783,m,2,Pós graduado,SIM,Não,Moderado
+16666,8532,m,2,Superior Completo,SIM,Não,Agressivo
+24266,7252,f,1,Superior Completo,SIM,Não,Agressivo
+7498,936,f,3,Pós graduado,SIM,SIM,Conservador
+6355,1766,m,5,Superior Incompleto,Não,Não,Conservador
+10911,7170,m,4,Pós graduado,Não,SIM,Não Investidor
+12005,9234,m,2,Superior Completo,Não,Não,Moderado
+22465,7147,m,1,Superior Completo,Não,SIM,Agressivo
+6336,1403,m,5,Pós graduado,SIM,SIM,Conservador
+1879,1622,m,5,Médio Completo,Não,Não,Conservador
+1806,1328,f,2,Médio Completo,SIM,Não,Não Investidor
+16024,8998,f,2,Pós graduado,SIM,Não,Moderado
+19244,6133,f,2,Superior Completo,Não,Não,Agressivo
+11189,8406,f,1,Superior Incompleto,Não,SIM,Moderado
+15846,8808,m,1,Superior Completo,SIM,SIM,Agressivo
+4780,3579,m,2,Superior Completo,SIM,Não,Conservador
+24948,6886,f,1,Superior Completo,Não,Não,Agressivo
+3572,1379,m,5,Médio Incompleto,SIM,SIM,Não Investidor
+3402,2935,n,3,Pós graduado,SIM,SIM,Conservador
+3600,1445,m,4,Superior Incompleto,Não,SIM,Não Investidor
+15301,8696,m,1,Pós graduado,Não,SIM,Moderado
+17476,8769,m,1,Pós graduado,SIM,SIM,Agressivo
+1273,1165,m,5,Superior Incompleto,Não,Não,Não Investidor
+23382,7788,m,1,Pós graduado,SIM,SIM,Agressivo
+21939,5380,n,0,Superior Completo,Não,SIM,Agressivo
+16897,7473,n,0,Superior Completo,SIM,SIM,Agressivo
+2966,2110,m,3,Pós graduado,SIM,Não,Conservador
+7767,5068,m,3,Superior Completo,SIM,Não,Conservador
+11147,8504,m,1,Superior Incompleto,SIM,Não,Moderado
+19629,7123,f,1,Superior Completo,Não,SIM,Agressivo
+21736,9917,f,3,Superior Completo,Não,SIM,Agressivo
+4128,1970,f,5,Fundamental Completo,SIM,Não,Não Investidor
+1933,1401,m,4,Fundamental Incompleto,Não,Não,Não Investidor
+17672,5057,m,0,Superior Completo,Não,SIM,Agressivo
+3256,1439,m,2,Médio Incompleto,Não,Não,Não Investidor
+24313,7815,m,2,Pós graduado,Não,Não,Agressivo
+3662,2943,m,4,Superior Incompleto,SIM,SIM,Não Investidor
+7595,2688,m,5,Superior Incompleto,SIM,Não,Conservador
+2311,1293,m,3,Superior Incompleto,Não,Não,Conservador
+8938,8166,m,2,Pós graduado,Não,Não,Moderado
+3298,3059,m,3,Superior Incompleto,Não,SIM,Conservador
+23345,5016,f,2,Superior Completo,Não,Não,Agressivo
+15652,15279,f,2,Pós graduado,Não,SIM,Moderado
+13868,9305,n,2,Superior Incompleto,SIM,SIM,Moderado
+11902,9333,f,1,Pós graduado,Não,Não,Moderado
+1639,1231,f,2,Fundamental Incompleto,SIM,Não,Não Investidor
+3226,1884,n,2,Médio Completo,SIM,SIM,Conservador
+20373,5484,m,2,Superior Completo,Não,SIM,Agressivo
+22457,5886,n,1,Superior Completo,SIM,Não,Agressivo
+22409,12856,m,3,Superior Completo,Não,Não,Moderado
+12793,8876,m,1,Superior Completo,SIM,SIM,Moderado
+1365,915,m,5,Médio Completo,SIM,Não,Conservador
+6055,4068,m,5,Médio Completo,Não,SIM,Agressivo
+5699,5492,m,3,Pós graduado,SIM,SIM,Conservador
+22796,7305,f,3,Pós graduado,SIM,SIM,Agressivo
+16690,6111,f,3,Pós graduado,SIM,Não,Agressivo
+8102,5968,m,4,Médio Completo,SIM,Não,Conservador
+22888,7559,n,2,Pós graduado,SIM,Não,Agressivo
+1000,996,f,3,Médio Completo,SIM,SIM,Não Investidor
+3533,845,f,2,Superior Incompleto,Não,SIM,Conservador
+1185,1142,m,5,Pós graduado,SIM,Não,Conservador
+9319,8044,m,3,Superior Completo,SIM,Não,Conservador
+9025,7463,f,3,Pós graduado,SIM,Não,Conservador
+3609,2785,m,3,Superior Incompleto,Não,Não,Não Investidor
+9175,6153,n,1,Superior Completo,Não,Não,Moderado
+2195,1732,f,5,Superior Incompleto,Não,Não,Conservador
+22565,7696,m,3,Superior Completo,SIM,SIM,Agressivo
+3677,1437,m,3,Pós graduado,SIM,SIM,Conservador
+16423,5667,m,1,Superior Completo,Não,Não,Moderado
+4439,3786,m,3,Superior Incompleto,Não,Não,Não Investidor
+19219,14661,m,0,Fundamental Completo,Não,Não,Não Investidor
+4601,1755,f,2,Fundamental Completo,Não,Não,Não Investidor
+8887,5485,m,1,Pós graduado,SIM,SIM,Moderado
+22034,9744,n,2,Superior Completo,SIM,SIM,Agressivo
+4544,1721,f,3,Médio Incompleto,Não,SIM,Não Investidor
+10820,5388,m,2,Pós graduado,SIM,Não,Moderado
+5094,4009,f,5,Médio Completo,Não,SIM,Conservador
+3312,1528,m,2,Superior Completo,SIM,SIM,Conservador
+23030,5319,f,1,Pós graduado,SIM,SIM,Agressivo
+2129,2118,n,5,Médio Incompleto,SIM,SIM,Não Investidor
+9493,8848,m,4,Pós graduado,SIM,SIM,Conservador
+10920,7073,m,2,Superior Completo,SIM,SIM,Moderado
+2510,1160,f,4,Médio Incompleto,SIM,Não,Não Investidor
+10728,9185,m,1,Superior Completo,Não,SIM,Moderado
+22933,5239,f,1,Pós graduado,SIM,SIM,Agressivo
+3399,2232,m,4,Médio Incompleto,SIM,Não,Não Investidor
+7220,2828,f,4,Pós graduado,Não,SIM,Conservador
+8766,7710,n,2,Pós graduado,Não,SIM,Moderado
+12937,5727,f,2,Pós graduado,Não,SIM,Moderado
+10782,9013,f,1,Pós graduado,SIM,SIM,Moderado
+4654,1673,m,2,Médio Completo,SIM,SIM,Conservador
+15296,5607,m,1,Superior Completo,SIM,SIM,Moderado
+20340,9050,m,1,Pós graduado,SIM,SIM,Agressivo
+24323,6207,f,0,Pós graduado,Não,Não,Agressivo
+11470,4333,f,0,Superior Incompleto,SIM,SIM,Não Investidor
+3276,2943,n,2,Superior Incompleto,Não,SIM,Não Investidor
+3263,3119,f,2,Fundamental Completo,Não,Não,Não Investidor
+4196,3568,n,2,Pós graduado,SIM,Não,Conservador
+16591,6470,m,1,Pós graduado,Não,SIM,Agressivo
+16521,5889,f,1,Superior Completo,SIM,SIM,Agressivo
+21954,6110,m,3,Superior Completo,SIM,Não,Agressivo
+3991,1195,m,3,Fundamental Incompleto,SIM,Não,Não Investidor
+17229,7346,f,3,Pós graduado,Não,SIM,Agressivo
+2223,2083,f,3,Fundamental Incompleto,Não,Não,Não Investidor
+7546,1992,n,3,Médio Completo,SIM,SIM,Conservador
+2793,2561,m,2,Médio Completo,SIM,Não,Não Investidor
+3919,3251,m,4,Superior Completo,SIM,Não,Conservador
+5075,4335,n,4,Pós graduado,SIM,Não,Conservador
+2602,1190,n,2,Médio Completo,SIM,SIM,Não Investidor
+3049,2124,m,5,Médio Completo,SIM,SIM,Não Investidor
+8339,7333,m,4,Superior Completo,Não,SIM,Conservador
+9857,6152,n,5,Fundamental Completo,SIM,Não,Não Investidor
+1778,1419,f,3,Fundamental Completo,SIM,SIM,Não Investidor
+12786,11190,m,1,Pós graduado,Não,SIM,Moderado
+4875,3858,m,3,Superior Incompleto,SIM,Não,Não Investidor
+2823,2726,m,2,Superior Incompleto,Não,Não,Conservador
+6294,2892,f,5,Superior Incompleto,Não,SIM,Conservador
+4060,1524,m,3,Fundamental Completo,SIM,Não,Não Investidor
+1166,1057,m,5,Fundamental Incompleto,Não,SIM,Não Investidor
+17799,5701,m,2,Superior Completo,Não,Não,Agressivo
+6283,4322,f,2,Superior Incompleto,SIM,Não,Conservador
+2213,1741,f,4,Médio Completo,SIM,Não,Não Investidor
+9980,7437,n,2,Superior Completo,SIM,Não,Moderado
+1817,1471,f,4,Fundamental Completo,Não,Não,Não Investidor
+24940,7809,m,3,Pós graduado,SIM,Não,Agressivo
+7816,7335,n,4,Médio Completo,Não,Não,Conservador
+14045,9842,n,2,Superior Completo,SIM,SIM,Moderado
+3800,2881,m,4,Superior Incompleto,Não,SIM,Não Investidor
+5787,2896,f,3,Pós graduado,SIM,SIM,Conservador
+2880,2170,m,4,Superior Completo,SIM,Não,Conservador
+3787,1852,m,3,Fundamental Completo,SIM,Não,Não Investidor
+3120,1804,f,5,Superior Incompleto,Não,Não,Não Investidor
+1953,1193,m,3,Médio Completo,Não,Não,Não Investidor
+2927,2695,f,5,Fundamental Incompleto,Não,Não,Não Investidor
+7837,4724,n,5,Superior Completo,SIM,SIM,Conservador
+2040,1132,n,5,Pós graduado,SIM,SIM,Conservador
+15855,5672,f,2,Superior Completo,Não,Não,Agressivo
+1135,980,f,3,Pós graduado,SIM,Não,Conservador
+13258,11352,f,1,Superior Incompleto,SIM,Não,Moderado
+18891,7583,m,1,Pós graduado,Não,SIM,Agressivo
+20642,6526,m,2,Superior Completo,SIM,Não,Agressivo
+4326,3139,f,5,Médio Incompleto,SIM,Não,Não Investidor
+8698,5869,m,5,Pós graduado,Não,SIM,Conservador
+2713,1780,n,4,Fundamental Incompleto,SIM,SIM,Não Investidor
+8723,5006,m,2,Superior Incompleto,SIM,SIM,Moderado
+7131,3391,f,2,Superior Incompleto,Não,Não,Conservador
+24839,7462,f,3,Pós graduado,SIM,SIM,Agressivo
+14415,8462,f,1,Superior Incompleto,Não,SIM,Moderado
+3090,1637,f,3,Superior Completo,SIM,Não,Conservador
+9681,6274,m,3,Pós graduado,Não,SIM,Conservador
+5407,5025,n,5,Superior Completo,SIM,Não,Conservador
+1356,1092,m,4,Médio Completo,Não,Não,Não Investidor
+15663,5288,f,3,Superior Completo,Não,SIM,Agressivo
+4885,1792,m,3,Pós graduado,SIM,SIM,Conservador
+10636,9806,m,2,Superior Completo,Não,SIM,Moderado
+14487,7632,f,1,Pós graduado,SIM,Não,Moderado
+14119,13674,f,2,Pós graduado,SIM,Não,Moderado
+20096,7937,m,2,Pós graduado,Não,SIM,Agressivo
+3555,2474,m,3,Fundamental Completo,SIM,SIM,Não Investidor
+5991,1339,m,5,Pós graduado,SIM,Não,Conservador
+4805,2722,m,5,Médio Incompleto,SIM,SIM,Não Investidor
+19186,17438,f,0,Fundamental Completo,SIM,Não,Conservador
+1266,1064,n,5,Fundamental Completo,SIM,Não,Não Investidor
+15432,14900,m,1,Superior Completo,SIM,Não,Moderado
+6703,3574,m,4,Superior Incompleto,SIM,SIM,Conservador
+7575,6110,n,2,Superior Completo,Não,Não,Conservador
+3244,983,f,2,Médio Completo,Não,Não,Conservador
+22125,5736,f,0,Superior Completo,SIM,Não,Agressivo
+9589,8656,m,1,Pós graduado,Não,SIM,Moderado
+9912,7539,f,1,Pós graduado,SIM,SIM,Moderado
+4836,3566,f,4,Médio Completo,Não,Não,Conservador
+24579,6766,f,0,Superior Completo,Não,Não,Agressivo
+3179,1464,f,4,Pós graduado,Não,SIM,Conservador
+6596,1742,m,2,Superior Completo,SIM,Não,Conservador
+21820,5575,n,0,Pós graduado,SIM,Não,Agressivo
+1560,1464,m,3,Médio Incompleto,Não,SIM,Não Investidor
+1788,1421,f,2,Superior Incompleto,SIM,Não,Não Investidor
+10942,10732,m,2,Médio Incompleto,Não,SIM,Não Investidor
+1531,1193,f,2,Superior Completo,SIM,Não,Conservador
+7426,1936,m,5,Superior Completo,Não,SIM,Conservador
+21501,8434,m,1,Superior Completo,SIM,SIM,Agressivo
+15732,7893,m,1,Pós graduado,Não,SIM,Moderado
+4140,2593,m,5,Fundamental Completo,SIM,SIM,Não Investidor
+9436,9084,m,2,Superior Incompleto,Não,Não,Moderado
+14477,9543,n,2,Pós graduado,Não,SIM,Moderado
+1897,1679,m,4,Fundamental Incompleto,Não,SIM,Não Investidor
+23000,6019,f,2,Superior Completo,SIM,SIM,Agressivo
+8579,836,f,2,Superior Completo,Não,SIM,Conservador
+2522,1497,m,4,Fundamental Incompleto,Não,Não,Não Investidor
+7771,7697,f,4,Médio Completo,SIM,Não,Conservador
+10886,8248,m,2,Superior Completo,Não,SIM,Moderado
+3334,2897,m,4,Superior Incompleto,Não,SIM,Não Investidor
+4252,3526,m,3,Fundamental Incompleto,SIM,Não,Não Investidor
+1159,1087,f,2,Fundamental Completo,Não,Não,Não Investidor
+1133,1073,f,4,Pós graduado,SIM,SIM,Não Investidor
+2019,1853,f,2,Pós graduado,Não,Não,Conservador
+14909,5322,n,1,Pós graduado,Não,Não,Moderado
+14734,14355,m,1,Superior Completo,SIM,SIM,Moderado
+1760,1630,f,2,Superior Incompleto,Não,Não,Não Investidor
+8650,8119,m,1,Superior Incompleto,Não,SIM,Moderado
+20196,6096,m,2,Superior Completo,Não,SIM,Agressivo
+23915,7890,m,1,Superior Completo,Não,SIM,Agressivo
+24245,14979,m,0,Pós graduado,SIM,SIM,Não Investidor
+8674,6013,m,4,Médio Completo,SIM,SIM,Conservador
+15069,12466,f,5,Fundamental Incompleto,Não,SIM,Não Investidor
+22611,9349,n,2,Pós graduado,Não,SIM,Agressivo
+3519,2866,f,5,Pós graduado,Não,SIM,Conservador
+3083,2333,f,2,Médio Completo,SIM,SIM,Não Investidor
+12316,10593,m,2,Pós graduado,SIM,Não,Moderado
+11972,8786,m,2,Superior Completo,SIM,SIM,Moderado
+14784,11248,m,1,Superior Incompleto,SIM,Não,Moderado
+21176,5418,m,2,Superior Completo,Não,SIM,Agressivo
+9619,8969,n,2,Superior Completo,Não,SIM,Moderado
+18352,6832,f,1,Pós graduado,Não,Não,Agressivo
+23702,7736,m,0,Superior Completo,SIM,Não,Agressivo
+6670,4528,f,5,Superior Incompleto,SIM,Não,Conservador
+11391,8667,f,1,Superior Completo,SIM,SIM,Moderado
+22332,5990,f,3,Superior Completo,SIM,Não,Agressivo
+24585,7708,m,3,Pós graduado,SIM,SIM,Agressivo
+1090,1017,m,3,Fundamental Incompleto,Não,Não,Não Investidor
+11859,6729,m,1,Superior Incompleto,SIM,Não,Moderado
+2558,1226,f,5,Médio Completo,SIM,Não,Não Investidor
+4042,2358,m,2,Médio Completo,SIM,Não,Não Investidor
+6396,5452,n,3,Superior Completo,SIM,SIM,Conservador
+23771,7836,f,0,Superior Completo,Não,Não,Agressivo
+15416,6520,m,1,Superior Incompleto,SIM,SIM,Moderado
+4035,2760,f,5,Superior Incompleto,SIM,Não,Não Investidor
+2181,1239,f,3,Superior Completo,SIM,SIM,Conservador
+16758,13557,m,1,Pós graduado,Não,SIM,Moderado
+3829,2772,m,3,Fundamental Completo,Não,SIM,Não Investidor
+22814,8102,m,3,Pós graduado,SIM,SIM,Agressivo
+3617,2580,m,4,Médio Completo,SIM,SIM,Não Investidor
+12721,5198,m,2,Superior Completo,Não,SIM,Moderado
+18617,7172,n,1,Pós graduado,Não,Não,Agressivo
+4226,1094,m,4,Superior Completo,SIM,Não,Conservador
+2673,2636,m,3,Fundamental Incompleto,Não,Não,Não Investidor
+16889,6498,m,3,Pós graduado,SIM,Não,Agressivo
+1337,1108,m,5,Superior Incompleto,SIM,Não,Não Investidor
+8956,2010,n,2,Superior Completo,Não,SIM,Conservador
+24553,6845,n,0,Superior Completo,SIM,Não,Agressivo
+16180,5981,n,2,Pós graduado,SIM,SIM,Agressivo
+21544,8405,m,1,Superior Completo,Não,SIM,Agressivo
+3339,972,m,3,Superior Completo,SIM,Não,Conservador
+12202,12003,f,1,Pós graduado,Não,SIM,Moderado
+9181,6374,n,1,Superior Incompleto,SIM,Não,Moderado
+18361,9982,n,3,Pós graduado,SIM,SIM,Agressivo
+17695,8472,f,2,Pós graduado,Não,SIM,Agressivo
+23562,7508,n,1,Superior Completo,SIM,SIM,Agressivo
+13987,11152,n,2,Pós graduado,Não,SIM,Moderado
+3202,2232,f,2,Fundamental Incompleto,Não,Não,Não Investidor
+1471,1412,f,3,Fundamental Incompleto,SIM,SIM,Não Investidor
+2905,1727,m,2,Fundamental Incompleto,Não,Não,Não Investidor
+2209,1544,m,5,Superior Incompleto,Não,Não,Conservador
+16536,7644,f,3,Superior Completo,Não,Não,Agressivo
+2545,1489,f,5,Fundamental Completo,Não,Não,Não Investidor
+4589,2872,f,2,Superior Incompleto,SIM,SIM,Conservador
+3684,1009,f,2,Fundamental Incompleto,SIM,SIM,Não Investidor
+15404,7269,f,3,Superior Completo,Não,SIM,Agressivo
+21578,9194,f,1,Pós graduado,SIM,SIM,Agressivo
+1311,1278,m,3,Pós graduado,Não,SIM,Conservador
+2944,1197,f,2,Fundamental Completo,SIM,Não,Não Investidor
+9251,5789,f,5,Fundamental Incompleto,SIM,Não,Não Investidor
+10159,9157,f,1,Superior Completo,Não,Não,Moderado
+1883,1094,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+11099,10065,m,2,Pós graduado,Não,Não,Moderado
+16649,6179,m,1,Pós graduado,SIM,Não,Moderado
+22068,9326,m,3,Pós graduado,Não,SIM,Agressivo
+9188,8165,f,1,Pós graduado,Não,SIM,Moderado
+24613,8051,m,0,Pós graduado,Não,Não,Agressivo
+4704,3222,n,2,Médio Completo,SIM,Não,Não Investidor
+3094,1246,f,5,Fundamental Incompleto,SIM,Não,Não Investidor
+14046,1598,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+18296,7729,n,1,Superior Completo,Não,SIM,Agressivo
+2909,1148,m,2,Superior Incompleto,SIM,SIM,Não Investidor
+1379,992,m,4,Pós graduado,Não,SIM,Conservador
+10391,8250,m,1,Pós graduado,Não,SIM,Moderado
+6761,5820,n,5,Pós graduado,SIM,SIM,Conservador
+2839,1996,m,4,Médio Incompleto,SIM,Não,Não Investidor
+3896,3594,m,4,Médio Completo,Não,SIM,Conservador
+17016,7109,f,1,Superior Completo,SIM,Não,Agressivo
+7038,3884,m,4,Superior Completo,SIM,SIM,Conservador
+19317,6099,f,3,Pós graduado,SIM,Não,Agressivo
+8493,7714,n,3,Superior Incompleto,Não,Não,Conservador
+19809,7848,n,2,Pós graduado,Não,Não,Agressivo
+4983,1627,m,3,Superior Incompleto,Não,Não,Conservador
+8409,6217,m,1,Superior Completo,Não,SIM,Moderado
+4091,3736,m,3,Superior Incompleto,SIM,SIM,Não Investidor
+1358,1218,f,4,Superior Incompleto,Não,Não,Não Investidor
+7877,1642,f,3,Pós graduado,SIM,Não,Conservador
+4680,3743,f,5,Médio Incompleto,Não,SIM,Não Investidor
+9383,7249,m,2,Superior Incompleto,SIM,Não,Moderado
+4263,3984,m,3,Pós graduado,Não,Não,Conservador
+3940,3814,f,4,Médio Completo,SIM,SIM,Não Investidor
+1316,1227,m,5,Pós graduado,Não,SIM,Conservador
+8996,6972,f,2,Superior Incompleto,Não,SIM,Conservador
+19362,9482,m,5,Superior Incompleto,Não,Não,Conservador
+12371,9745,m,1,Superior Incompleto,SIM,SIM,Moderado
+13298,8774,f,2,Superior Completo,SIM,SIM,Moderado
+9921,1518,f,2,Médio Completo,Não,Não,Conservador
+1098,1065,m,4,Fundamental Completo,SIM,Não,Não Investidor
+5031,2503,f,4,Médio Incompleto,Não,SIM,Moderado
+16513,13962,n,1,Superior Completo,SIM,Não,Moderado
+1486,1006,f,3,Superior Completo,Não,Não,Conservador
+2372,1424,m,4,Superior Incompleto,Não,Não,Não Investidor
+11674,6675,m,1,Superior Completo,SIM,SIM,Moderado
+8157,4560,f,5,Superior Completo,Não,Não,Conservador
+20200,9587,m,0,Superior Completo,SIM,SIM,Agressivo
+8016,5794,f,4,Superior Completo,SIM,Não,Conservador
+10002,8374,f,1,Pós graduado,SIM,Não,Moderado
+23838,8724,f,1,Pós graduado,SIM,SIM,Agressivo
+6209,3136,f,3,Superior Incompleto,Não,SIM,Conservador
+20954,8783,m,2,Superior Completo,Não,Não,Agressivo
+10869,6384,m,1,Superior Completo,SIM,Não,Moderado
+7394,7320,n,2,Médio Completo,SIM,Não,Conservador
+13389,11874,f,2,Superior Incompleto,SIM,SIM,Moderado
+1562,1351,m,4,Médio Completo,Não,Não,Conservador
+11479,6046,n,2,Superior Completo,Não,Não,Moderado
+9122,6210,f,5,Superior Completo,SIM,SIM,Conservador
+24915,9164,m,0,Pós graduado,Não,SIM,Agressivo
+16667,7296,f,1,Pós graduado,SIM,Não,Agressivo
+1200,917,f,5,Médio Completo,Não,SIM,Conservador
+23396,7709,m,1,Pós graduado,Não,SIM,Agressivo
+15780,6974,m,1,Pós graduado,SIM,SIM,Moderado
+3640,1739,f,4,Médio Completo,SIM,SIM,Não Investidor
+16488,7417,f,2,Pós graduado,Não,Não,Agressivo
+19831,5162,f,3,Superior Completo,SIM,Não,Agressivo
+3851,3255,f,5,Fundamental Completo,SIM,Não,Não Investidor
+16116,9999,m,3,Superior Completo,Não,Não,Agressivo
+12774,8477,f,1,Superior Incompleto,SIM,SIM,Moderado
+4283,1154,m,2,Médio Incompleto,Não,Não,Não Investidor
+8250,1125,m,5,Pós graduado,SIM,Não,Conservador
+24310,8152,f,3,Superior Completo,Não,Não,Agressivo
+9589,6466,m,2,Superior Incompleto,SIM,Não,Moderado
+17405,6937,m,0,Pós graduado,SIM,Não,Agressivo
+15468,13354,n,1,Pós graduado,Não,SIM,Moderado
+2844,1139,m,2,Superior Incompleto,Não,SIM,Não Investidor
+4377,4018,f,5,Médio Completo,SIM,Não,Não Investidor
+4120,1340,m,2,Fundamental Completo,SIM,Não,Não Investidor
+4393,2606,m,4,Superior Completo,Não,Não,Conservador
+1477,1079,f,3,Fundamental Completo,Não,Não,Não Investidor
+3610,2263,m,3,Superior Incompleto,SIM,SIM,Conservador
+11419,11165,f,1,Superior Incompleto,Não,Não,Moderado
+4010,2573,m,5,Superior Incompleto,SIM,Não,Não Investidor
+20718,6516,f,3,Pós graduado,SIM,SIM,Agressivo
+23008,6105,n,0,Superior Completo,Não,Não,Agressivo
+9267,9056,f,2,Superior Completo,Não,SIM,Moderado
+4575,1431,n,2,Pós graduado,Não,Não,Conservador
+17038,8677,f,3,Pós graduado,SIM,Não,Agressivo
+20963,9112,m,2,Pós graduado,SIM,Não,Agressivo
+2366,2267,m,3,Médio Incompleto,SIM,Não,Não Investidor
+6696,4828,m,1,Médio Completo,SIM,Não,Conservador
+7083,5410,f,5,Pós graduado,Não,Não,Conservador
+23610,8308,f,0,Pós graduado,SIM,Não,Agressivo
+1417,1111,f,3,Fundamental Completo,Não,SIM,Não Investidor
+6509,2242,m,4,Pós graduado,SIM,Não,Conservador
+11985,9660,m,2,Superior Completo,SIM,Não,Moderado
+16897,12984,m,1,Pós graduado,Não,Não,Moderado
+5947,2458,m,2,Pós graduado,Não,SIM,Conservador
+23982,7044,n,1,Pós graduado,SIM,Não,Agressivo
+12113,6767,n,1,Superior Incompleto,SIM,SIM,Moderado
+24748,7116,m,1,Pós graduado,Não,SIM,Agressivo
+21907,5205,m,3,Superior Completo,SIM,Não,Agressivo
+3820,1512,f,4,Médio Incompleto,Não,Não,Não Investidor
+2480,1310,m,2,Fundamental Incompleto,Não,Não,Não Investidor
+19461,8107,m,0,Superior Completo,Não,Não,Agressivo
+1127,985,m,5,Superior Incompleto,Não,SIM,Conservador
+18703,8745,f,3,Pós graduado,Não,Não,Agressivo
+16371,13816,n,2,Superior Incompleto,SIM,SIM,Moderado
+1665,1523,m,2,Médio Completo,Não,Não,Conservador
+14805,10796,f,2,Pós graduado,SIM,Não,Moderado
+18370,8354,f,3,Pós graduado,SIM,Não,Agressivo
+8973,6920,n,3,Médio Completo,SIM,SIM,Conservador
+8494,1842,m,3,Médio Completo,SIM,SIM,Conservador
+5614,4876,n,4,Pós graduado,Não,SIM,Conservador
+23369,9635,m,0,Pós graduado,SIM,SIM,Agressivo
+4632,3167,m,4,Superior Incompleto,Não,Não,Não Investidor
+9319,7778,m,2,Superior Completo,SIM,Não,Conservador
+15950,5194,n,2,Superior Completo,SIM,Não,Agressivo
+11784,9013,f,2,Pós graduado,Não,SIM,Moderado
+10157,8041,f,2,Superior Incompleto,SIM,Não,Moderado
+1005,998,m,3,Médio Incompleto,SIM,Não,Não Investidor
+9108,5659,f,1,Pós graduado,Não,Não,Moderado
+8653,1196,f,5,Pós graduado,Não,Não,Conservador
+1813,1346,m,3,Médio Completo,SIM,SIM,Não Investidor
+24175,5224,f,2,Superior Completo,SIM,SIM,Agressivo
+14655,10574,m,2,Pós graduado,SIM,Não,Moderado
+12869,9629,m,2,Superior Incompleto,Não,SIM,Moderado
+14087,6137,f,1,Superior Completo,SIM,SIM,Moderado
+8279,7920,m,2,Pós graduado,Não,SIM,Moderado
+2578,1773,f,4,Médio Completo,Não,SIM,Conservador
+4276,3406,m,4,Superior Incompleto,SIM,SIM,Não Investidor
+20991,5201,n,2,Pós graduado,Não,Não,Agressivo
+8044,2345,f,4,Superior Incompleto,SIM,SIM,Conservador
+4201,1542,n,4,Fundamental Incompleto,Não,SIM,Não Investidor
+5112,2441,f,4,Pós graduado,SIM,SIM,Conservador
+3342,1915,f,1,Médio Incompleto,SIM,Não,Moderado
+14935,13076,f,2,Superior Completo,SIM,SIM,Moderado
+2517,1888,m,3,Superior Incompleto,Não,Não,Não Investidor
+19408,5985,f,1,Pós graduado,Não,SIM,Agressivo
+3663,2019,f,3,Fundamental Incompleto,Não,SIM,Não Investidor
+8929,3204,m,5,Médio Completo,Não,Não,Conservador
+8178,7029,f,3,Superior Incompleto,Não,Não,Conservador
+10842,9840,m,1,Superior Incompleto,Não,Não,Moderado
+5527,4105,n,2,Superior Completo,Não,Não,Conservador
+15751,8858,n,1,Superior Incompleto,SIM,Não,Moderado
+3611,3462,f,4,Superior Incompleto,SIM,SIM,Conservador
+9442,5305,m,3,Superior Completo,Não,Não,Conservador
+2920,2490,n,2,Fundamental Incompleto,SIM,SIM,Não Investidor
+14932,14313,f,1,Superior Incompleto,SIM,SIM,Moderado
+14038,8792,f,2,Pós graduado,SIM,SIM,Moderado
+8915,4047,m,4,Pós graduado,SIM,SIM,Conservador
+8254,6931,f,2,Superior Incompleto,Não,Não,Moderado
+2512,1186,m,5,Fundamental Completo,SIM,SIM,Não Investidor
+20992,9586,m,2,Superior Completo,Não,SIM,Agressivo
+7498,7334,m,2,Superior Completo,SIM,Não,Conservador
+3417,3294,f,4,Médio Incompleto,SIM,SIM,Não Investidor
+15378,7494,f,0,Superior Completo,Não,Não,Agressivo
+4259,1422,f,3,Pós graduado,Não,Não,Conservador
+4707,2517,m,3,Médio Completo,SIM,SIM,Conservador
+14247,5685,m,2,Pós graduado,Não,Não,Moderado
+8403,8187,f,2,Superior Completo,Não,SIM,Conservador
+10811,5327,f,1,Pós graduado,Não,Não,Moderado
+3191,1734,m,2,Fundamental Incompleto,SIM,Não,Não Investidor
+18728,9301,f,2,Superior Completo,SIM,SIM,Agressivo
+14989,13654,m,2,Superior Completo,SIM,SIM,Moderado
+4570,3217,m,4,Médio Completo,SIM,Não,Conservador
+11099,5577,m,2,Superior Completo,SIM,SIM,Moderado
+2382,2180,m,5,Fundamental Completo,SIM,SIM,Não Investidor
+6068,4526,f,4,Superior Incompleto,SIM,SIM,Conservador
+2507,2111,m,4,Superior Completo,Não,Não,Conservador
+9515,8858,f,4,Médio Completo,Não,SIM,Conservador
+1602,1492,m,2,Fundamental Completo,Não,Não,Não Investidor
+7833,6569,m,5,Superior Completo,Não,SIM,Conservador
+8915,2105,m,5,Superior Incompleto,Não,SIM,Conservador
+1738,1714,m,3,Médio Completo,SIM,Não,Conservador
+21324,9942,m,2,Pós graduado,Não,SIM,Agressivo
+4267,2835,m,3,Médio Completo,SIM,SIM,Não Investidor
+2622,2095,m,2,Superior Incompleto,Não,Não,Não Investidor
+22202,6841,f,2,Superior Completo,Não,SIM,Agressivo
+3275,1544,f,3,Superior Incompleto,Não,Não,Não Investidor
+15292,6002,f,2,Superior Incompleto,Não,Não,Moderado
+12968,11742,m,1,Superior Incompleto,Não,SIM,Moderado
+11994,7620,m,1,Superior Incompleto,Não,Não,Moderado
+1029,896,m,5,Médio Completo,SIM,SIM,Conservador
+1567,1378,m,4,Médio Completo,Não,SIM,Não Investidor
+21432,8571,m,0,Superior Completo,Não,SIM,Agressivo
+2469,1269,f,5,Pós graduado,Não,Não,Conservador
+21478,8462,m,0,Superior Completo,SIM,Não,Agressivo
+18084,3074,f,0,Pós graduado,Não,SIM,Moderado
+3121,903,f,2,Superior Completo,Não,SIM,Conservador
+3944,2367,n,0,Fundamental Completo,SIM,Não,Moderado
+24522,6793,f,3,Pós graduado,SIM,Não,Agressivo
+4598,1046,m,3,Superior Incompleto,Não,Não,Não Investidor
+8340,3133,f,2,Médio Completo,Não,SIM,Conservador
+13449,6490,m,1,Superior Incompleto,Não,Não,Moderado
+13743,7665,f,1,Superior Incompleto,SIM,Não,Moderado
+8560,6881,m,3,Superior Incompleto,SIM,SIM,Conservador
+5129,1580,m,3,Médio Completo,Não,SIM,Conservador
+4178,2987,m,2,Médio Completo,SIM,Não,Não Investidor
+21110,9290,m,2,Pós graduado,Não,SIM,Agressivo
+22289,6803,f,2,Superior Completo,Não,SIM,Agressivo
+21353,5149,m,2,Superior Completo,Não,Não,Agressivo
+23434,5153,f,3,Superior Completo,SIM,SIM,Agressivo
+9102,8800,f,1,Pós graduado,Não,Não,Moderado
+4041,2113,m,4,Fundamental Completo,SIM,Não,Não Investidor
+12919,12330,m,1,Superior Incompleto,Não,SIM,Moderado
+4599,2020,m,2,Superior Incompleto,SIM,Não,Conservador
+12004,5529,m,2,Superior Incompleto,Não,SIM,Moderado
+12261,8374,m,1,Superior Completo,SIM,Não,Moderado
+4964,4681,n,5,Médio Completo,SIM,Não,Conservador
+3658,3544,m,4,Médio Incompleto,SIM,SIM,Não Investidor
+1141,1052,m,3,Médio Incompleto,Não,Não,Não Investidor
+13505,7332,m,2,Superior Completo,SIM,SIM,Moderado
+7628,7118,m,4,Pós graduado,Não,SIM,Conservador
+10939,7820,f,2,Pós graduado,SIM,Não,Moderado
+15740,6719,m,3,Superior Completo,SIM,Não,Agressivo
+995,995,f,4,Superior Incompleto,SIM,Não,Não Investidor
+16549,9315,f,2,Superior Incompleto,Não,SIM,Moderado
+10563,7416,f,1,Superior Completo,Não,Não,Moderado
+3962,3572,m,4,Fundamental Completo,SIM,Não,Não Investidor
+21524,8042,m,1,Pós graduado,Não,Não,Agressivo
+13433,6691,f,1,Superior Completo,Não,Não,Moderado
+24370,6195,f,0,Superior Completo,Não,SIM,Agressivo
+4553,2872,f,5,Médio Completo,SIM,Não,Conservador
+4934,4865,n,4,Fundamental Incompleto,SIM,SIM,Não Investidor
+2524,2515,n,4,Superior Incompleto,SIM,SIM,Não Investidor
+6083,1615,f,2,Superior Completo,SIM,SIM,Conservador
+8682,1861,f,5,Médio Completo,Não,SIM,Conservador
+14667,8766,m,1,Superior Incompleto,SIM,SIM,Moderado
+16720,7564,f,2,Superior Completo,SIM,SIM,Moderado
+9774,7381,n,4,Superior Completo,SIM,SIM,Conservador
+5552,1245,f,2,Médio Completo,Não,SIM,Conservador
+23840,6466,n,2,Superior Completo,Não,Não,Agressivo
+3374,1120,m,4,Pós graduado,SIM,SIM,Conservador
+1129,880,m,3,Superior Incompleto,SIM,SIM,Conservador
+8497,5924,f,1,Superior Completo,Não,Não,Moderado
+5136,4217,f,4,Médio Completo,Não,SIM,Conservador
+14404,5437,n,2,Pós graduado,Não,SIM,Moderado
+9635,8894,m,1,Superior Completo,Não,SIM,Moderado
+2888,1721,n,4,Superior Incompleto,SIM,Não,Não Investidor
+15157,6942,m,0,Pós graduado,Não,SIM,Agressivo
+16294,5144,m,0,Superior Completo,SIM,SIM,Agressivo
+2367,1646,f,5,Fundamental Incompleto,SIM,SIM,Não Investidor
+22508,6151,m,3,Superior Completo,SIM,SIM,Agressivo
+11092,7996,m,2,Superior Completo,Não,Não,Moderado
+3167,1526,m,4,Superior Completo,Não,Não,Conservador
+16965,8629,m,2,Superior Completo,Não,Não,Agressivo
+15641,15345,m,1,Superior Completo,Não,Não,Moderado
+1356,1273,m,2,Superior Incompleto,SIM,SIM,Não Investidor
+22630,9350,n,2,Superior Completo,SIM,SIM,Agressivo
+9879,2045,m,4,Pós graduado,SIM,Não,Conservador
+3657,3620,m,3,Superior Incompleto,Não,SIM,Conservador
+3610,1890,f,4,Médio Completo,SIM,SIM,Conservador
+1001,925,m,2,Pós graduado,SIM,SIM,Conservador
+7535,5109,f,1,Médio Completo,Não,Não,Não Investidor
+23674,6892,f,2,Superior Completo,SIM,Não,Agressivo
+3275,1969,n,5,Fundamental Completo,Não,Não,Não Investidor
+3989,3631,f,4,Superior Incompleto,SIM,Não,Não Investidor
+11574,7828,m,1,Pós graduado,Não,Não,Moderado
+22562,6940,m,1,Superior Completo,SIM,SIM,Agressivo
+1346,1299,m,1,Superior Incompleto,SIM,Não,Moderado
+3967,1794,m,5,Médio Completo,Não,SIM,Conservador
+8663,8312,f,5,Pós graduado,Não,SIM,Conservador
+15390,7212,n,2,Pós graduado,SIM,SIM,Moderado
+8202,5661,f,1,Superior Incompleto,Não,SIM,Moderado
+11525,5029,m,1,Superior Completo,Não,SIM,Moderado
+23465,6275,m,2,Superior Completo,SIM,Não,Agressivo
+11621,7698,f,2,Pós graduado,Não,SIM,Moderado
+24439,9494,m,3,Superior Completo,SIM,SIM,Agressivo
+4533,3435,m,2,Médio Incompleto,Não,Não,Não Investidor
+1980,1833,f,4,Médio Completo,Não,Não,Não Investidor
+3566,2379,m,3,Superior Incompleto,SIM,SIM,Conservador
+9543,5653,m,0,Médio Completo,SIM,Não,Moderado
+15290,5672,m,3,Superior Completo,SIM,SIM,Agressivo
+8614,5093,m,2,Pós graduado,SIM,SIM,Moderado
+8134,7605,m,3,Superior Incompleto,SIM,Não,Conservador
+10233,7312,f,1,Superior Incompleto,SIM,SIM,Moderado
+7703,5215,m,5,Médio Completo,Não,SIM,Conservador
+10044,8445,m,2,Superior Incompleto,Não,SIM,Moderado
+8504,4639,f,5,Superior Completo,SIM,SIM,Conservador
+1624,1039,m,5,Médio Incompleto,SIM,Não,Não Investidor
+8299,7097,f,2,Superior Incompleto,Não,Não,Moderado
+24140,7423,n,3,Superior Completo,SIM,SIM,Agressivo
+1240,969,f,4,Superior Incompleto,Não,SIM,Conservador
+19224,5154,m,3,Pós graduado,SIM,Não,Agressivo
+15864,8334,m,1,Superior Completo,SIM,SIM,Moderado
+3274,3158,f,3,Médio Completo,SIM,Não,Não Investidor
+16027,6996,f,2,Pós graduado,Não,Não,Moderado
+6202,1586,f,4,Superior Incompleto,Não,SIM,Conservador
+16221,13712,m,1,Pós graduado,SIM,Não,Moderado
+5801,5006,f,2,Médio Completo,SIM,Não,Conservador
+3763,1512,f,3,Fundamental Incompleto,SIM,Não,Não Investidor
+16534,5072,m,2,Pós graduado,SIM,SIM,Moderado
+6791,6347,f,1,Pós graduado,Não,Não,Agressivo
+2535,1250,m,4,Superior Completo,SIM,SIM,Conservador
+9676,2828,m,5,Superior Incompleto,SIM,SIM,Conservador
+15357,10351,m,1,Superior Completo,Não,SIM,Moderado
+1174,1099,f,3,Médio Completo,Não,Não,Não Investidor
+3476,1805,m,3,Médio Incompleto,Não,Não,Não Investidor
+2703,2527,f,4,Médio Completo,Não,SIM,Não Investidor
+1170,1170,f,3,Superior Completo,SIM,SIM,Conservador
+8650,6613,m,1,Superior Completo,SIM,SIM,Moderado
+16585,7902,m,1,Pós graduado,Não,SIM,Moderado
+8060,7456,m,2,Superior Incompleto,Não,Não,Moderado
+4964,4465,f,5,Superior Incompleto,SIM,Não,Conservador
+4030,1643,m,4,Médio Incompleto,Não,Não,Não Investidor
+18749,5996,m,1,Superior Completo,Não,Não,Agressivo
+4729,1822,m,5,Fundamental Incompleto,SIM,Não,Não Investidor
+3433,2933,m,2,Médio Completo,SIM,SIM,Conservador
+16958,5795,m,2,Superior Incompleto,SIM,SIM,Moderado
+15003,11677,m,2,Superior Completo,Não,Não,Moderado
+15221,6406,f,1,Superior Completo,Não,Não,Moderado
+10928,6016,n,1,Pós graduado,SIM,SIM,Moderado
+3663,1873,f,2,Superior Completo,SIM,Não,Conservador
+2384,2068,m,4,Fundamental Completo,Não,SIM,Não Investidor
+4488,2142,m,2,Médio Incompleto,SIM,Não,Não Investidor
+1446,1176,f,4,Fundamental Completo,SIM,Não,Não Investidor
+19003,7310,m,3,Pós graduado,SIM,SIM,Agressivo
+3508,2162,f,4,Médio Incompleto,Não,Não,Não Investidor
+18550,8905,m,0,Superior Completo,Não,SIM,Agressivo
+16460,12078,f,2,Pós graduado,Não,Não,Moderado
+7752,6271,f,3,Superior Completo,SIM,Não,Conservador
+4069,1252,m,5,Médio Completo,Não,SIM,Não Investidor
+3906,3871,f,3,Fundamental Completo,SIM,SIM,Não Investidor
+4198,1819,f,4,Superior Incompleto,Não,SIM,Não Investidor
+24750,5468,m,1,Pós graduado,SIM,SIM,Agressivo
+4082,3298,m,5,Fundamental Incompleto,Não,SIM,Não Investidor
+8035,1148,m,2,Superior Incompleto,Não,SIM,Conservador
+12990,11108,n,1,Superior Completo,Não,SIM,Moderado
+20368,5702,m,3,Superior Completo,SIM,SIM,Agressivo
+11311,7819,f,3,Superior Completo,Não,SIM,Moderado
+2518,1275,n,5,Superior Incompleto,SIM,Não,Não Investidor
+5350,2108,n,5,Superior Completo,SIM,SIM,Conservador
+10257,9252,m,3,Fundamental Completo,SIM,SIM,Agressivo
+2188,1055,m,2,Superior Incompleto,SIM,Não,Não Investidor
+2416,1815,n,4,Médio Completo,Não,SIM,Não Investidor
+15566,9144,m,3,Pós graduado,Não,Não,Agressivo
+3006,1278,f,2,Médio Completo,Não,SIM,Não Investidor
+3500,1971,n,5,Médio Completo,SIM,SIM,Não Investidor
+4077,3137,m,3,Médio Incompleto,Não,Não,Não Investidor
+22909,5100,m,0,Superior Completo,SIM,SIM,Agressivo
+1346,1335,f,2,Fundamental Incompleto,Não,SIM,Não Investidor
+15682,6310,f,0,Pós graduado,SIM,SIM,Agressivo
+2307,1294,m,3,Fundamental Incompleto,SIM,SIM,Não Investidor
+8412,5876,m,2,Pós graduado,Não,SIM,Moderado
+4722,2724,n,2,Superior Incompleto,Não,Não,Não Investidor
+9247,2421,f,5,Pós graduado,SIM,Não,Conservador
+12535,5634,m,1,Superior Incompleto,Não,SIM,Moderado
+16384,5352,m,2,Superior Completo,Não,SIM,Moderado
+1737,1093,m,3,Superior Incompleto,Não,SIM,Não Investidor
+4451,3627,f,4,Fundamental Completo,SIM,SIM,Não Investidor
+15996,12885,m,2,Pós graduado,Não,SIM,Moderado
+1591,1446,f,4,Superior Incompleto,Não,Não,Conservador
+1714,1116,f,5,Médio Completo,Não,SIM,Conservador
+1924,1716,m,2,Médio Completo,Não,Não,Não Investidor
+1442,1298,m,3,Fundamental Incompleto,SIM,Não,Não Investidor
+9610,5206,m,2,Pós graduado,SIM,Não,Moderado
+20565,7372,m,1,Superior Completo,Não,Não,Agressivo
+1964,1184,f,5,Fundamental Completo,Não,Não,Não Investidor
+15746,8655,m,2,Pós graduado,SIM,SIM,Agressivo
+9909,8925,f,3,Pós graduado,SIM,SIM,Conservador
+1731,1527,m,3,Fundamental Incompleto,Não,SIM,Não Investidor
+5960,4068,m,3,Pós graduado,Não,SIM,Conservador
+12632,11945,n,2,Pós graduado,SIM,SIM,Moderado
+2698,2021,f,2,Fundamental Completo,Não,Não,Não Investidor
+3338,1692,m,4,Médio Incompleto,SIM,Não,Não Investidor
+7973,5756,m,5,Médio Completo,SIM,SIM,Conservador
+7882,5145,m,5,Médio Completo,SIM,SIM,Conservador
+20262,6288,f,1,Pós graduado,SIM,Não,Agressivo
+13319,7257,m,2,Superior Completo,Não,Não,Moderado
+20985,8297,m,1,Pós graduado,SIM,Não,Agressivo
+3660,1510,f,3,Superior Completo,Não,Não,Conservador
+8093,4063,m,4,Pós graduado,Não,SIM,Conservador
+3683,2987,f,5,Fundamental Completo,Não,SIM,Não Investidor
+3331,3185,m,2,Superior Incompleto,SIM,Não,Conservador
+2448,1091,f,2,Pós graduado,Não,SIM,Conservador
+1169,1057,f,4,Fundamental Incompleto,SIM,SIM,Não Investidor
+6572,4330,f,2,Superior Incompleto,SIM,Não,Conservador
+15703,8304,m,2,Superior Completo,Não,SIM,Moderado
+15062,9981,m,3,Pós graduado,Não,Não,Agressivo
+22478,9958,m,1,Pós graduado,SIM,Não,Agressivo
+13605,9843,m,5,Fundamental Incompleto,Não,SIM,Moderado
+15099,10071,n,2,Pós graduado,Não,SIM,Moderado
+7969,1947,f,2,Superior Completo,Não,SIM,Conservador
+9659,3623,f,2,Superior Incompleto,SIM,SIM,Conservador
+18940,8690,f,0,Pós graduado,SIM,SIM,Agressivo
+12882,11616,m,2,Superior Completo,Não,SIM,Moderado
+12627,11237,m,2,Superior Incompleto,SIM,Não,Moderado
+13490,8168,n,2,Superior Incompleto,SIM,Não,Moderado
+9142,7084,f,2,Superior Completo,Não,Não,Moderado
+18764,6332,m,0,Superior Completo,Não,Não,Agressivo
+3364,3146,n,5,Médio Incompleto,SIM,SIM,Não Investidor
+19040,6846,m,2,Pós graduado,Não,SIM,Agressivo
+8409,6720,f,2,Pós graduado,SIM,SIM,Moderado
+16826,11751,m,2,Superior Incompleto,Não,Não,Moderado
+4731,1942,f,3,Fundamental Completo,Não,SIM,Não Investidor
+1606,1016,n,3,Médio Completo,Não,SIM,Conservador
+3801,1920,m,3,Superior Completo,Não,SIM,Conservador
+2148,1070,m,4,Médio Completo,SIM,SIM,Conservador
+12516,2020,m,0,Fundamental Incompleto,Não,Não,Conservador
+1591,1288,m,5,Médio Completo,SIM,SIM,Não Investidor
+3142,3001,m,2,Fundamental Completo,SIM,Não,Não Investidor
+1722,1711,f,2,Fundamental Completo,Não,SIM,Não Investidor
+16766,5706,f,1,Superior Completo,Não,SIM,Agressivo
+9289,8560,f,5,Superior Completo,SIM,SIM,Conservador
+15475,8915,m,0,Superior Completo,SIM,Não,Agressivo
+16105,7584,m,2,Superior Completo,SIM,SIM,Moderado
+1489,1168,f,5,Médio Completo,Não,Não,Não Investidor
+3143,2824,f,5,Médio Incompleto,Não,Não,Não Investidor
+5703,4148,m,4,Médio Completo,Não,SIM,Conservador
+3281,2374,m,3,Superior Incompleto,SIM,SIM,Não Investidor
+5343,3675,f,4,Superior Incompleto,SIM,Não,Conservador
+11828,10400,n,2,Superior Incompleto,Não,SIM,Moderado
+15536,14907,m,1,Pós graduado,Não,Não,Moderado
+1792,1764,m,4,Fundamental Completo,SIM,SIM,Não Investidor
+3670,1897,m,4,Superior Completo,SIM,SIM,Conservador
+3762,3476,m,5,Fundamental Incompleto,SIM,Não,Não Investidor
+4417,3094,f,5,Fundamental Completo,Não,Não,Não Investidor
+21141,8874,m,2,Pós graduado,Não,Não,Agressivo
+22321,8087,m,0,Pós graduado,SIM,Não,Agressivo
+2518,1227,m,3,Superior Completo,SIM,SIM,Conservador
+16946,14519,m,2,Pós graduado,Não,Não,Moderado
+9747,2404,m,5,Fundamental Completo,SIM,SIM,Moderado
+18709,7448,n,3,Pós graduado,Não,Não,Agressivo
+11134,9398,f,2,Pós graduado,Não,SIM,Moderado
+11298,6907,m,2,Superior Incompleto,SIM,SIM,Moderado
+8305,2429,m,4,Superior Completo,SIM,Não,Conservador
+15703,6047,m,1,Superior Completo,SIM,SIM,Agressivo
+12852,5550,m,1,Superior Incompleto,SIM,Não,Moderado
+5820,2256,m,3,Superior Incompleto,SIM,SIM,Conservador
+11018,6542,m,1,Superior Incompleto,SIM,SIM,Moderado
+10255,5139,m,2,Superior Completo,SIM,SIM,Moderado
+16229,10144,f,1,Pós graduado,SIM,SIM,Moderado
+1648,1519,f,3,Fundamental Completo,SIM,Não,Não Investidor
+1392,1265,f,5,Superior Incompleto,SIM,Não,Conservador
+8365,7751,f,2,Pós graduado,Não,SIM,Moderado
+1771,1374,m,2,Superior Completo,Não,Não,Conservador
+22209,6664,m,0,Superior Completo,SIM,SIM,Agressivo
+2277,1316,m,5,Superior Incompleto,SIM,SIM,Não Investidor
+1995,1744,n,5,Superior Incompleto,SIM,SIM,Conservador
+11496,10759,m,2,Pós graduado,SIM,Não,Moderado
+12938,12306,m,1,Superior Completo,Não,Não,Moderado
+9007,5609,f,1,Fundamental Incompleto,SIM,SIM,Agressivo
+1418,946,m,5,Superior Incompleto,Não,SIM,Conservador
+21626,8444,f,0,Pós graduado,Não,Não,Agressivo
+8401,8245,m,5,Superior Incompleto,Não,Não,Conservador
+3972,3932,n,2,Fundamental Completo,Não,SIM,Não Investidor
+6457,1475,f,2,Pós graduado,Não,Não,Conservador
+4501,1661,f,5,Superior Incompleto,SIM,SIM,Conservador
+3972,1048,f,3,Superior Incompleto,Não,Não,Não Investidor
+1255,1222,f,2,Fundamental Incompleto,Não,SIM,Não Investidor
+23445,7506,f,0,Pós graduado,SIM,SIM,Agressivo
+22597,7237,m,2,Pós graduado,Não,Não,Agressivo
+22056,7354,m,1,Superior Completo,SIM,Não,Agressivo
+21805,8166,m,0,Superior Completo,SIM,Não,Agressivo
+1608,1421,m,2,Médio Incompleto,SIM,Não,Não Investidor
+19633,5595,m,1,Superior Completo,SIM,SIM,Agressivo
+9730,4492,m,5,Pós graduado,Não,SIM,Moderado
+9404,5591,m,1,Superior Completo,SIM,SIM,Moderado
+15078,7346,m,1,Pós graduado,SIM,Não,Agressivo
+12587,5930,m,2,Superior Completo,SIM,Não,Conservador
+12561,3066,f,2,Superior Incompleto,Não,SIM,Não Investidor
+16385,5788,n,0,Pós graduado,Não,SIM,Agressivo
+4572,1294,m,5,Médio Completo,SIM,SIM,Conservador
+3125,2285,m,2,Médio Completo,Não,Não,Não Investidor
+6607,5044,m,5,Médio Completo,Não,SIM,Conservador
+1971,1106,m,2,Fundamental Completo,Não,Não,Não Investidor
+9756,4136,f,2,Superior Incompleto,Não,SIM,Conservador
+15969,14110,m,1,Superior Completo,SIM,SIM,Moderado
+12215,11684,f,1,Superior Incompleto,SIM,Não,Moderado
+18227,6179,m,2,Superior Completo,Não,Não,Agressivo
+8451,1839,f,4,Superior Completo,SIM,Não,Conservador
+7295,5988,f,5,Médio Completo,Não,SIM,Conservador
+8916,8120,f,4,Médio Completo,Não,Não,Conservador
+3173,2303,f,5,Médio Completo,SIM,SIM,Conservador
+2911,2360,m,3,Médio Completo,Não,Não,Conservador
+3409,1513,f,5,Superior Incompleto,SIM,Não,Não Investidor
+5541,4573,m,5,Superior Completo,SIM,SIM,Conservador
+15860,9455,f,1,Superior Completo,Não,Não,Moderado
+16433,6858,m,3,Superior Completo,Não,SIM,Agressivo
+8529,1507,m,3,Superior Completo,Não,Não,Conservador
+5850,3389,f,2,Superior Incompleto,SIM,SIM,Conservador
+4837,4021,f,4,Médio Completo,SIM,SIM,Conservador
+18949,8833,f,2,Superior Completo,SIM,SIM,Agressivo
+21625,8794,m,3,Pós graduado,SIM,SIM,Agressivo
+16511,7378,n,0,Superior Completo,SIM,SIM,Agressivo
+4088,3305,n,2,Pós graduado,SIM,Não,Conservador
+8209,5057,m,2,Superior Completo,Não,Não,Conservador
+5215,4687,n,5,Médio Completo,Não,SIM,Conservador
+20371,5956,f,2,Superior Completo,SIM,Não,Agressivo
+16960,9180,f,1,Superior Completo,SIM,Não,Agressivo
+6077,3214,m,3,Médio Completo,Não,Não,Conservador

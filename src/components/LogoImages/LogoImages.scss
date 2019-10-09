@@ -1,0 +1,36 @@
+.logo-images {
+    display        : flex;
+    flex-direction : column;
+    position       : absolute;
+    justify-content: space-between;
+    align-items    : center;
+    height         : 288px;
+    right          : 0;
+    bottom         : 10%;
+    margin-right   : 3.125vw;
+    width          : 512px;
+
+    @include respond-to-max($breakpoint--lg) {
+        width       : 196px;
+        height      : 128px;
+        margin-right: 0;
+    }
+
+    @include respond-to-max($breakpoint--md) {
+        right  : calc(50vw - 98px);
+        bottom : calc(50vh - 64px);
+        z-index: 0;
+    }
+}
+
+.logo-images h3 {
+    font-size    : 16px;
+    text-align   : center;
+    margin-bottom: 0;
+    font-weight  : 400;
+
+    @include respond-to-max($breakpoint--lg) {
+        font-size: 8px;
+    }
+
+}

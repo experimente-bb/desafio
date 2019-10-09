@@ -1,0 +1,157 @@
+@import 'colors';
+
+// Contains base styles for all demo applications
+html {
+  font-size: 16px;
+}
+
+body {
+  background: $duo-gray-100;
+  color: $duo-gray-10;
+}
+
+.ibm {
+  &.App {
+    width: auto;
+    flex-wrap: nowrap;
+  }
+}
+
+input {
+  border-style: none;
+  border-color: none;
+  border-width: 0;
+  background: none;
+  font-size: 1em; // 16px
+  line-height: 1.375em;
+  color: $duo-gray-50;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+p {
+  font-size: 1.125em; // 18px
+  line-height: 1.5em;
+}
+
+button {
+  border: none;
+  border-radius: 0;
+  background: $duo-gray-80;
+  color: $duo-gray-20;
+
+  &:focus {
+    outline: none;
+  }
+  &:active {
+    &:not(.modal--x) {
+      background-image: linear-gradient(to right, rgba(0, 108, 252, 0) 0%, rgba(0, 108, 252, 0) 16.6667%, rgb(0, 108, 252) 33.3333%, rgb(0, 108, 252) 66.6667%, rgba(0, 108, 252, 0) 83.3333%, rgba(0, 108, 252, 0) 100%);
+      transition: all 109.721ms cubic-bezier(0.2, 0.2, 0.38, 0.9);
+      background-position: 50% top;
+      background-size: 600% 100%;
+    }
+  }
+  &:hover {
+    cursor: pointer;
+    svg {
+      #Icon {
+        fill: $duo-white;
+      }
+    }
+  }
+}
+
+svg {
+  fill: none;
+
+  #Icon {
+    fill: $duo-gray-20;
+  }
+}
+
+// global container styles
+
+// generic modal
+.overlay {
+  visibility: hidden;
+  transition: all 0.1s ease-in-out;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0rem;
+  left: 0rem;
+  opacity: 0;
+  margin-top: 0rem;
+  z-index: 10000;
+  &.show {
+    opacity: 1;
+    visibility: visible;
+  }
+  .modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: $duo-gray-100;
+    width: 100vw;
+    .modal--x {
+      position: absolute;
+      top: 2rem;
+      left: 2rem;
+      background: transparent;
+      &:hover {
+        cursor: pointer;
+      }
+      svg {
+        fill: white;
+        width: 28px;
+        height: 28px;
+        path {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+// 2-col card styles, e.g. credit card and agent cards
+.image-card {
+  background: none;
+  display: flex;
+  align-items: normal;
+  margin-bottom: 1.51515vw;
+  width: 75%;
+  background: $duo-gray-10;
+  padding: 0;
+  @include respond-to-max($breakpoint--md) {
+    width: 100%;
+  }
+  .image-card__image {
+    position: relative;
+    width: 33%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    &:before {
+      content: "";
+      position: absolute;
+      width: 100%;
+      display: block;
+      padding-top: 100%;
+    }
+  }
+  .image-card__content {
+    color: $duo-gray-70;
+    text-align: left;
+    padding: 1.51515vw;
+    width: 66%;
+    .ibm-type-semibold {
+      color: $duo-gray-100;
+      margin: 0;
+    }
+  }
+  &.image-card--selected {
+
+  }
+}

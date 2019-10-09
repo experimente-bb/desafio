@@ -1,0 +1,107 @@
+.token {
+  font-size: 0.9em;
+}
+
+.property {
+  color: $duo-teal-20;
+}
+
+.string {
+  color: $duo-purple-30;
+}
+
+.number {
+  color: $duo-purple-30;
+}
+
+.boolean {
+  color: $duo-purple-30;
+}
+
+// end JSON format styles
+
+.json-pane {
+  position: absolute;
+  background: $duo-gray-100;
+  width: 200%;
+  height: calc(90vh - 6.25vw);
+  top: 0;
+  right: 0;
+  z-index: 9998;
+  overflow-y: auto;
+  .results--json {
+    padding-left: 1.5151515vw;
+  }
+  .json-link-inline--button, .base--a {
+    display: none;
+  }
+  @extend .slide-in-right-down;
+  &.json-pane--hidden {
+    width: 0;
+    height: 65px;
+    overflow: hidden;
+    padding: 0;
+    @extend .slide-in-right-down--reverse;
+  }
+  @include respond-to-max($breakpoint--lg) {
+    margin: 0;
+    width: calc(100% - 6.25vw);
+  }
+  @include respond-to-max($breakpoint--md) {
+    width: 100%;
+    top: 0;
+    left: 0;
+    &.json-pane--hidden {
+      height: calc(90vh - 6.25vw);
+    }
+  }
+  @include respond-to-max($breakpoint--sm) {
+    height: 100vh;
+    &.json-pane--hidden {
+      height: 100vh;
+    }
+  }
+
+  // line numbers for json pane
+  pre {
+    &.line-numbers {
+      position: relative;
+      padding-left: 3.8em;
+      counter-reset: linenumber;
+      > code {
+        position: relative;
+        white-space: inherit;
+        overflow-y: visible;
+        font-family: inherit;
+      }
+      .line-numbers-rows {
+        position: absolute;
+        pointer-events: none;
+        top: 0;
+        font-size: 100%;
+        left: -3.8em;
+        width: 3em;
+        margin-top: 0;
+        /* works for line-numbers below 1000 lines */
+        letter-spacing: -1px;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        > span {
+          pointer-events: none;
+          display: block;
+          counter-increment: linenumber;
+          margin-top: 0;
+          &:before {
+            content: counter(linenumber);
+            color: #fff;
+            display: block;
+            padding-right: 0.8em;
+            text-align: right;
+          }
+        }
+      }
+    }
+  }
+}
