@@ -37,7 +37,7 @@
     "@ibm/grid": "^0.2.3",
     "@ibm/type": "^0.5.3",
     "acorn": "^6.1.1",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "babel-cli": "^6.26.0",
     "babel-eslint": "^10.0.2",
     "babel-loader": "^7.1.2",
