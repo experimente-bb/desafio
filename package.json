@@ -22,7 +22,7 @@
     "cookie-parser": "^1.4.4",
     "csurf": "^1.10.0",
     "dotenv": "^6.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-rate-limit": "^3.4.0",
     "helmet": "^3.18.0",
     "ibm-watson": "^4.2.1",
